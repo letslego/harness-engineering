@@ -3,7 +3,7 @@ import { defineConfig } from "vitepress";
 import { withMermaid } from "vitepress-plugin-mermaid";
 
 const docsBase = process.env.DOCS_BASE_PATH || "/harness-engineering/";
-const brandLogo = 'data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="%23D95C41" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><line x1="12.1" y1="11.9" x2="18.9" y2="8.2" /><line x1="12.1" y1="12.1" x2="20.3" y2="12.9" /><line x1="12.2" y1="12.4" x2="16.6" y2="19.1" /><line x1="11.8" y1="12.4" x2="7.3" y2="19.2" /><line x1="11.9" y1="12.1" x2="3.7" y2="13.3" /><line x1="11.8" y1="11.7" x2="7.8" y2="4.4" /></svg>';
+const brandLogo = 'data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="9" stroke="%231f6feb" stroke-width="1.8"/><path d="M8 8v8M16 8v8M8 12h8" stroke="%231f6feb" stroke-width="1.8" stroke-linecap="round"/></svg>';
 const githubRepoTreeLink = "https://github.com/letslego/harness-engineering/tree/main";
 const discordInviteLink = "https://discord.gg/XU7DQmpqk";
 const socialLinks = [
@@ -583,7 +583,7 @@ const createLocaleTheme = (
       { text: labels.projects, link: projects[0].link, activeMatch: `^/${locale}/projects/` },
       { text: labels.resources, link: `/${locale}/resources/`, activeMatch: `^/${locale}/resources/` },
       { text: labels.skills, link: `/${locale}/skills/`, activeMatch: `^/${locale}/skills/` },
-      { text: labels.tryHarness, link: `/docs/${locale}/resources/templates/index.md`, target: "_blank", rel: "noopener noreferrer" },
+      { text: labels.tryHarness, link: "https://github.com/letslego/harness-engineering/blob/main/docs/en/resources/templates/index.md", target: "_blank", rel: "noopener noreferrer" },
     ],
     sidebar: {
       [`/${locale}/projects/`]: [{ text: labels.projects, items: projects }],
@@ -675,7 +675,7 @@ export default withMermaid(
             { text: "Projects", link: enProjectItems[0].link, activeMatch: '^/en/projects/' },
             { text: "Library", link: "/en/resources/", activeMatch: '^/en/resources/' },
             { text: "Skills", link: "/en/skills/", activeMatch: '^/en/skills/' },
-            { text: "Try Harness ↗", link: "/docs/en/resources/templates/index.md", target: "_blank", rel: "noopener noreferrer" }
+            { text: "Try Harness ↗", link: "https://github.com/letslego/harness-engineering/blob/main/docs/en/resources/templates/index.md", target: "_blank", rel: "noopener noreferrer" }
           ],
           sidebar: {
             '/en/projects/': [{ text: "Projects", items: enProjectItems }],
@@ -710,7 +710,7 @@ export default withMermaid(
             { text: "技能", link: "/zh/skills/", activeMatch: "^/zh/skills/" },
             {
               text: "Try Harness ↗",
-              link: "/docs/zh/resources/templates/index.md",
+              link: "https://github.com/letslego/harness-engineering/blob/main/docs/en/resources/templates/index.md",
               target: "_blank",
               rel: "noopener noreferrer",
             },
@@ -920,7 +920,7 @@ export default withMermaid(
             },
             {
               text: "Try Harness ↗",
-              link: "/docs/vi/resources/templates/index.md",
+              link: "https://github.com/letslego/harness-engineering/blob/main/docs/en/resources/templates/index.md",
               target: "_blank",
               rel: "noopener noreferrer",
             },
@@ -975,7 +975,7 @@ export default withMermaid(
             { text: "스킬", link: "/ko/skills/", activeMatch: "^/ko/skills/" },
             {
               text: "Try Harness ↗",
-              link: "/docs/ko/resources/templates/index.md",
+              link: "https://github.com/letslego/harness-engineering/blob/main/docs/en/resources/templates/index.md",
               target: "_blank",
               rel: "noopener noreferrer",
             },
@@ -1033,7 +1033,7 @@ export default withMermaid(
             },
             {
               text: "Harness'ni sinash ↗",
-              link: "/docs/uz/resources/templates/index.md",
+              link: "https://github.com/letslego/harness-engineering/blob/main/docs/en/resources/templates/index.md",
               target: "_blank",
               rel: "noopener noreferrer",
             },
@@ -1093,7 +1093,7 @@ export default withMermaid(
             },
             {
               text: "Try Harness ↗",
-              link: "/docs/ru/resources/templates/index.md",
+              link: "https://github.com/letslego/harness-engineering/blob/main/docs/en/resources/templates/index.md",
               target: "_blank",
               rel: "noopener noreferrer",
             },
@@ -1151,7 +1151,7 @@ export default withMermaid(
             },
             {
               text: "Experimente Harness ↗",
-              link: "/docs/pt-BR/resources/templates/index.md",
+              link: "https://github.com/letslego/harness-engineering/blob/main/docs/en/resources/templates/index.md",
               target: "_blank",
               rel: "noopener noreferrer",
             },

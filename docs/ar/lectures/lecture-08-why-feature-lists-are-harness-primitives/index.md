@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-08-why-feature-lists-are-harness-primitives/)
 
-> أمثلة الكود: [code/](https://amitabhakarmakar.github.io/harness-engineering/ar/lectures/lecture-08-why-feature-lists-are-harness-primitives/code)
+> أمثلة الكود: [code/](https://letslego.github.io/harness-engineering/ar/lectures/lecture-08-why-feature-lists-are-harness-primitives/code)
 > مشروع عملي: [Project 04. Runtime feedback and scope control](./../../projects/project-04-incremental-indexing/)
 
 # المحاضرة 08. استخدم قوائم الميزات لتقييد الوكيل

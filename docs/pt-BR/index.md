@@ -4,7 +4,7 @@ Learn Harness Engineering é um curso dedicado à engenharia de agentes de codif
 - [OpenAI: Engenharia de Harness: alavancando o Codex em um mundo focado em agentes](https://openai.com/index/harness-engineering/)
 - [Anthropic: Harnesses eficazes para agentes de longa duração](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
 - [Anthropic: Design de Harness para desenvolvimento de aplicações de longa duração](https://www.anthropic.com/engineering/harness-design-long-running-apps)
-- [Awesome Harness Engineering](https://amitabhakarmakar.github.io/harness-engineering)
+- [Awesome Harness Engineering](https://letslego.github.io/harness-engineering)
 
 Através de design sistemático de ambiente, gerenciamento de estado, verificação e sistemas de controle, este curso ensina como tornar ferramentas de codificação de agentes como Codex e Claude Code verdadeiramente confiáveis. Ele ajuda você a construir recursos, corrigir bugs e automatizar tarefas de desenvolvimento, restringindo seu assistente de codificação de IA com regras e limites explícitos.
 

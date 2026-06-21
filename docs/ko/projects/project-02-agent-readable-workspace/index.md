@@ -1,7 +1,7 @@
 [English Version →](../../../en/projects/project-02-agent-readable-workspace/)
 
 > 관련 강의: [강의 03. 저장소를 단일 진실 원천으로 만들기](./../../lectures/lecture-03-why-the-repository-must-become-the-system-of-record/) · [강의 04. 지침을 여러 파일로 분리하기](./../../lectures/lecture-04-why-one-giant-instruction-file-fails/)
-> 템플릿 파일: [templates/](https://amitabhakarmakar.github.io/harness-engineering/en/resources/templates)
+> 템플릿 파일: [templates/](https://letslego.github.io/harness-engineering/en/resources/templates)
 
 # 프로젝트 02. 프로젝트를 읽기 쉽게 만들고 중단된 곳에서 재개하기
 
@@ -15,12 +15,12 @@
 
 ## 저장소에 포함된 프로젝트 사용하기
 
-저장소 경로: [`projects/project-02/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-02)
+저장소 경로: [`projects/project-02/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-02)
 
 | 디렉터리 | 내용 | 비교할 것 |
 |------|------|------|
-| [`starter/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-02/starter) | Project 01 코드에 문서 가져오기, 상세 보기, 지속성이 아직 완성되지 않은 상태입니다. 문서는 있지만 더 얇고 `session-handoff.md`가 없습니다. | 두 번째 에이전트 세션이 얼마나 많은 컨텍스트를 다시 찾아야 하는지. |
-| [`solution/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-02/solution) | 같은 제품 범위가 완성되어 있고, [`projects/project-02/solution/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-02/solution) 아래에 인수인계 문서와 [`feature_list.json`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-02/solution/feature_list.json), [`session-handoff.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-02/solution/session-handoff.md)가 있습니다. | 새 세션이 저장소 상태만 보고 이어갈 수 있는지. |
+| [`starter/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-02/starter) | Project 01 코드에 문서 가져오기, 상세 보기, 지속성이 아직 완성되지 않은 상태입니다. 문서는 있지만 더 얇고 `session-handoff.md`가 없습니다. | 두 번째 에이전트 세션이 얼마나 많은 컨텍스트를 다시 찾아야 하는지. |
+| [`solution/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-02/solution) | 같은 제품 범위가 완성되어 있고, [`projects/project-02/solution/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-02/solution) 아래에 인수인계 문서와 [`feature_list.json`](https://github.com/letslego/harness-engineering/blob/main/projects/project-02/solution/feature_list.json), [`session-handoff.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-02/solution/session-handoff.md)가 있습니다. | 새 세션이 저장소 상태만 보고 이어갈 수 있는지. |
 
 ## 도구
 

@@ -1,6 +1,6 @@
 [English Version →](../../../en/lectures/lecture-04-why-one-giant-instruction-file-fails/) | [中文版本 →](../../../zh/lectures/lecture-04-why-one-giant-instruction-file-fails/)
 
-> Ví dụ code: [code/](https://amitabhakarmakar.github.io/harness-engineering/vi/lectures/lecture-04-why-one-giant-instruction-file-fails/code)
+> Ví dụ code: [code/](https://letslego.github.io/harness-engineering/vi/lectures/lecture-04-why-one-giant-instruction-file-fails/code)
 > Dự án thực hành: [Dự án 02. Không gian làm việc Agent đọc được](./../../projects/project-02-agent-readable-workspace/)
 
 # Bài 04. Chia hướng dẫn ra thành nhiều tệp

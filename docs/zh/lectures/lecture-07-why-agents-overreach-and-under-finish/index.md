@@ -1,6 +1,6 @@
 [English Version →](../../../en/lectures/lecture-07-why-agents-overreach-and-under-finish/)
 
-> 本篇代码示例：[code/](https://amitabhakarmakar.github.io/harness-engineering/zh/lectures/lecture-07-why-agents-overreach-and-under-finish/code)
+> 本篇代码示例：[code/](https://letslego.github.io/harness-engineering/zh/lectures/lecture-07-why-agents-overreach-and-under-finish/code)
 > 实战练习：[Project 04. 用运行反馈修正 agent 的行为](./../../projects/project-04-incremental-indexing/)
 
 # 第七讲. 给 agent 划清每次任务的边界

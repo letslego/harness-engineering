@@ -1,6 +1,6 @@
 [English version →](../../../en/lectures/lecture-10-why-end-to-end-testing-changes-results/)
 
-> Ushbu maʼruza uchun kod misollari: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-10-why-end-to-end-testing-changes-results/code)
+> Ushbu maʼruza uchun kod misollari: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-10-why-end-to-end-testing-changes-results/code)
 > Amaliy loyiha: [Loyiha 05. Agentga oʻz ishini oʻzi tekshirishiga imkon bering](./../../projects/project-05-grounded-qa-verification/)
 
 # 10-maʼruza. Faqatgina End-to-End testlash chinakam tekshiruvdir

@@ -15,7 +15,7 @@
 
 ### بداية سريعة
 
-توجد ملفات المهارة في المستودع ضمن [`skills/harness-creator/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/skills/harness-creator).
+توجد ملفات المهارة في المستودع ضمن [`skills/harness-creator/`](https://github.com/letslego/harness-engineering/tree/main/skills/harness-creator).
 
 ```bash
 npx skills add amitabhakarmakar/harness-engineering --skill harness-creator

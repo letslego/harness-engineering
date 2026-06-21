@@ -1,7 +1,7 @@
 [中文版本 →](../../../zh/projects/project-05-grounded-qa-verification/)
 
 > Aulas relacionadas: [Aula 09. Impedir que os agentes declarem vitória prematuramente.](./../../lectures/lecture-09-why-agents-declare-victory-too-early/) · [Aula 10. Somente uma execução completa do pipeline conta como verificação real.](./../../lectures/lecture-10-why-end-to-end-testing-changes-results/)
-> Arquivos de template: [templates/](https://amitabhakarmakar.github.io/harness-engineering/en/resources/templates)
+> Arquivos de template: [templates/](https://letslego.github.io/harness-engineering/en/resources/templates)
 
 # Projeto 05. Faça o Agente Verificar o Próprio Trabalho
 
@@ -23,13 +23,13 @@ Autoverificação + grounded Q&A + conclusão baseada em evidências
 
 ## Utilize o Projeto Versionado
 
-Caminho do repositório: [`projects/project-05/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-05)
+Caminho do repositório: [`projects/project-05/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-05)
 
 | Diretório | O que contém | O que comparar |
 |------|------|------|
-| [`starter/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-05/starter) | Aplicação baseada no Projeto 04 antes da melhoria de histórico de conversas. | Ponto de partida caso você queira executar novamente as três variantes por conta própria. |
-| [`solution/single-role/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-05/solution/single-role) | Um único agente planeja, implementa e faz a própria revisão. | [`evaluator-rubric.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-05/solution/single-role/evaluator-rubric.md) com nota 1.6/5 e defeitos listados. |
-| [`solution/gen-eval/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-05/solution/gen-eval) | Gerador mais avaliador com evidências de revisão. | [`evaluator-rubric.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-05/solution/gen-eval/evaluator-rubric.md) com nota 3.3/5 e observações de revisão. |
-| [`solution/plan-gen-eval/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-05/solution/plan-gen-eval) | Planejador mais gerador mais avaliador. | [`sprint-contract.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/sprint-contract.md) e [`evaluator-rubric.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/evaluator-rubric.md) com nota 4.9/5. |
+| [`starter/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-05/starter) | Aplicação baseada no Projeto 04 antes da melhoria de histórico de conversas. | Ponto de partida caso você queira executar novamente as três variantes por conta própria. |
+| [`solution/single-role/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-05/solution/single-role) | Um único agente planeja, implementa e faz a própria revisão. | [`evaluator-rubric.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-05/solution/single-role/evaluator-rubric.md) com nota 1.6/5 e defeitos listados. |
+| [`solution/gen-eval/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-05/solution/gen-eval) | Gerador mais avaliador com evidências de revisão. | [`evaluator-rubric.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-05/solution/gen-eval/evaluator-rubric.md) com nota 3.3/5 e observações de revisão. |
+| [`solution/plan-gen-eval/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-05/solution/plan-gen-eval) | Planejador mais gerador mais avaliador. | [`sprint-contract.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/sprint-contract.md) e [`evaluator-rubric.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/evaluator-rubric.md) com nota 4.9/5. |
 
 A funcionalidade versionada é o histórico de conversas de perguntas e respostas multi-turno. Mantenha essa funcionalidade constante em todas as três variantes para que a única variável seja a separação de papéis.

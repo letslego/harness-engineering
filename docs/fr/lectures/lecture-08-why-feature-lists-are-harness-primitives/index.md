@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-08-why-feature-lists-are-harness-primitives/)
 
-> Exemples de code : [code/](https://amitabhakarmakar.github.io/harness-engineering/fr/lectures/lecture-08-why-feature-lists-are-harness-primitives/code)
+> Exemples de code : [code/](https://letslego.github.io/harness-engineering/fr/lectures/lecture-08-why-feature-lists-are-harness-primitives/code)
 > Projet pratique : [Projet 04. Feedback runtime et contrôle de portée](./../../projects/project-04-incremental-indexing/)
 
 # Leçon 08. Utiliser les listes de fonctionnalités pour contraindre l'agent

@@ -1,7 +1,7 @@
 [中文版本 →](../../../zh/projects/project-05-grounded-qa-verification/)
 
 > 関連講義: [講義 09. エージェントの早すぎる完了宣言を止める](./../../lectures/lecture-09-why-agents-declare-victory-too-early/) · [講義 10. フルパイプライン実行だけが本当の検証である](./../../lectures/lecture-10-why-end-to-end-testing-changes-results/)
-> テンプレートファイル: [templates/](https://amitabhakarmakar.github.io/harness-engineering/ja/resources/templates)
+> テンプレートファイル: [templates/](https://letslego.github.io/harness-engineering/ja/resources/templates)
 
 # プロジェクト 05. エージェントに自分の作業を検証させる
 
@@ -13,14 +13,14 @@
 
 ## リポジトリ内のプロジェクトを使う
 
-リポジトリ内のパス: [`projects/project-05/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-05)
+リポジトリ内のパス: [`projects/project-05/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-05)
 
 | ディレクトリ | 含まれるもの | 比較すること |
 |------|------|------|
-| [`starter/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-05/starter) | Project 04 ベースのアプリで、会話履歴アップグレード前の状態です。 | 3 つの変種を自分で再実行する出発点。 |
-| [`solution/single-role/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-05/solution/single-role) | 1 つのエージェントが計画・実装・自己評価を行います。 | [`evaluator-rubric.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-05/solution/single-role/evaluator-rubric.md) のスコアと欠陥。 |
-| [`solution/gen-eval/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-05/solution/gen-eval) | generator + evaluator で修正証拠があります。 | [`evaluator-rubric.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-05/solution/gen-eval/evaluator-rubric.md) のスコアと revision notes。 |
-| [`solution/plan-gen-eval/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-05/solution/plan-gen-eval) | planner + generator + evaluator と sprint contract があります。 | [`sprint-contract.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/sprint-contract.md) と [`evaluator-rubric.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/evaluator-rubric.md) の高い評価証拠。 |
+| [`starter/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-05/starter) | Project 04 ベースのアプリで、会話履歴アップグレード前の状態です。 | 3 つの変種を自分で再実行する出発点。 |
+| [`solution/single-role/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-05/solution/single-role) | 1 つのエージェントが計画・実装・自己評価を行います。 | [`evaluator-rubric.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-05/solution/single-role/evaluator-rubric.md) のスコアと欠陥。 |
+| [`solution/gen-eval/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-05/solution/gen-eval) | generator + evaluator で修正証拠があります。 | [`evaluator-rubric.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-05/solution/gen-eval/evaluator-rubric.md) のスコアと revision notes。 |
+| [`solution/plan-gen-eval/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-05/solution/plan-gen-eval) | planner + generator + evaluator と sprint contract があります。 | [`sprint-contract.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/sprint-contract.md) と [`evaluator-rubric.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/evaluator-rubric.md) の高い評価証拠。 |
 
 ## ツール
 

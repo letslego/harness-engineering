@@ -1,6 +1,6 @@
 [English Version →](../../../en/lectures/lecture-04-why-one-giant-instruction-file-fails/)
 
-> 本篇程式碼示例：[code/](https://amitabhakarmakar.github.io/harness-engineering/zh-TW/lectures/lecture-04-why-one-giant-instruction-file-fails/code)
+> 本篇程式碼示例：[code/](https://letslego.github.io/harness-engineering/zh-TW/lectures/lecture-04-why-one-giant-instruction-file-fails/code)
 > 實戰練習：[Project 02. 讓代理看懂專案、銜接上次的工作](./../../projects/project-02-agent-readable-workspace/)
 
 # 第四講. 把指令拆分到不同檔案裡

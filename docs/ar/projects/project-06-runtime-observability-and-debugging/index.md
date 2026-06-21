@@ -1,7 +1,7 @@
 [中文版本 →](../../../zh/projects/project-06-runtime-observability-and-debugging/)
 
 > محاضرات مرتبطة: [المحاضرة 11. اجعل runtime الخاص بالوكيل قابلًا للملاحظة](./../../lectures/lecture-11-why-observability-belongs-inside-the-harness/) · [المحاضرة 12. Handoff نظيف في نهاية كل جلسة](./../../lectures/lecture-12-why-every-session-must-leave-a-clean-state/)
-> ملفات القوالب: [templates/](https://amitabhakarmakar.github.io/harness-engineering/ar/resources/templates)
+> ملفات القوالب: [templates/](https://letslego.github.io/harness-engineering/ar/resources/templates)
 
 # المشروع 06. ابنِ harness كاملًا للوكيل (Capstone)
 
@@ -13,12 +13,12 @@
 
 ## استخدم المشروع الموجود في المستودع
 
-مسار المستودع: [`projects/project-06/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-06)
+مسار المستودع: [`projects/project-06/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-06)
 
 | المجلد | ماذا يحتوي | ماذا تقارن |
 |------|------|------|
-| [`starter/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-06/starter) | المنتج شبه مكتمل، لكن سطح harness ضعيف عمدًا: يوجد [`AGENTS.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-06/starter/AGENTS.md) أساسي فقط، ولا يوجد `feature_list.json` أو `session-handoff.md` أو clean-state checklist أو benchmark/cleanup scripts. | ملاحظات يدوية لخط baseline مع harness ضعيف. |
-| [`solution/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-06/solution) | harness كامل: [`AGENTS.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-06/solution/AGENTS.md), [`CLAUDE.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-06/solution/CLAUDE.md), [`feature_list.json`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-06/solution/feature_list.json), [`init.sh`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-06/solution/init.sh), [`session-handoff.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-06/solution/session-handoff.md), [`clean-state-checklist.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-06/solution/clean-state-checklist.md), quality/evaluator docs و scripts. | شغّل [`projects/project-06/solution/scripts/benchmark.sh`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-06/solution/scripts/benchmark.sh) و [`projects/project-06/solution/scripts/cleanup-scanner.sh`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-06/solution/scripts/cleanup-scanner.sh) ثم قارن أدلة الجودة. |
+| [`starter/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-06/starter) | المنتج شبه مكتمل، لكن سطح harness ضعيف عمدًا: يوجد [`AGENTS.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-06/starter/AGENTS.md) أساسي فقط، ولا يوجد `feature_list.json` أو `session-handoff.md` أو clean-state checklist أو benchmark/cleanup scripts. | ملاحظات يدوية لخط baseline مع harness ضعيف. |
+| [`solution/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-06/solution) | harness كامل: [`AGENTS.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-06/solution/AGENTS.md), [`CLAUDE.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-06/solution/CLAUDE.md), [`feature_list.json`](https://github.com/letslego/harness-engineering/blob/main/projects/project-06/solution/feature_list.json), [`init.sh`](https://github.com/letslego/harness-engineering/blob/main/projects/project-06/solution/init.sh), [`session-handoff.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-06/solution/session-handoff.md), [`clean-state-checklist.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-06/solution/clean-state-checklist.md), quality/evaluator docs و scripts. | شغّل [`projects/project-06/solution/scripts/benchmark.sh`](https://github.com/letslego/harness-engineering/blob/main/projects/project-06/solution/scripts/benchmark.sh) و [`projects/project-06/solution/scripts/cleanup-scanner.sh`](https://github.com/letslego/harness-engineering/blob/main/projects/project-06/solution/scripts/cleanup-scanner.sh) ثم قارن أدلة الجودة. |
 
 ## الأدوات
 

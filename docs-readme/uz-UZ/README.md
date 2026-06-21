@@ -24,7 +24,7 @@ Learn Harness Engineering — KI kod yozuvchi agentlarini ishlab chiqishga bagʻ
 - [OpenAI: Harness engineering: leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/)
 - [Anthropic: Effective harnesses for long-running agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
 - [Anthropic: Harness design for long-running application development](https://www.anthropic.com/engineering/harness-design-long-running-apps)
-- [Awesome Harness Engineering](https://amitabhakarmakar.github.io/harness-engineering)
+- [Awesome Harness Engineering](https://letslego.github.io/harness-engineering)
 
 > **Tezkor boshlash?** [`skills/harness-creator/`](../../skills/harness-creator/) skillʼi sizga oʻz loyihangiz uchun daqiqalar ichida ishlab chiqarish darajasidagi harness (AGENTS.md, funksiya roʻyxatlari, init.sh, tekshiruv oqimlari) yaratishga yordam beradi.
 
@@ -190,7 +190,7 @@ Bu kursni qiziqtiradigan haqiqiy savollar:
 
 ## Kurs oʻquv dasturi va hujjatlari
 
-Toʻliq kurs materiallarini **[hujjatlar saytida](https://amitabhakarmakar.github.io/harness-engineering)** topishingiz mumkin.
+Toʻliq kurs materiallarini **[hujjatlar saytida](https://letslego.github.io/harness-engineering)** topishingiz mumkin.
 
 Oʻquv dasturi uch qismdan iborat:
 
@@ -216,7 +216,7 @@ Gʻoya oddiy: faqat promptʼlar yozish oʻrniga, agentingizga nima qilish kerak,
     └── src/                   <-- sizning haqiqiy kodingiz
 ```
 
-Boshlangʻich andozalarni [andozalar kutubxonasidan](https://amitabhakarmakar.github.io/harness-engineering/en/resources) yuklab oling va loyihangizga qoʻshing. Shu. Toʻrtta fayl, va agent sessiyalaringiz allaqachon faqat promptʼlarga qaraganda ancha barqaror boʻladi.
+Boshlangʻich andozalarni [andozalar kutubxonasidan](https://letslego.github.io/harness-engineering/en/resources) yuklab oling va loyihangizga qoʻshing. Shu. Toʻrtta fayl, va agent sessiyalaringiz allaqachon faqat promptʼlarga qaraganda ancha barqaror boʻladi.
 
 ---
 
@@ -313,7 +313,7 @@ Agar parallel oʻqisangiz, har bir bosqich taxminan bir hafta davom etadi. Agar 
 
 ### Maʼruzalar — har biri muhim savolga javob beruvchi 12 ta konseptual blok
 
-*Har bir maʼruza matnini toʻliq oʻqish uchun [hujjatlar sayti](https://amitabhakarmakar.github.io/harness-engineering)ga murojaat qiling.*
+*Har bir maʼruza matnini toʻliq oʻqish uchun [hujjatlar sayti](https://letslego.github.io/harness-engineering)ga murojaat qiling.*
 
 | Sessiya | Savol | Asosiy gʻoya |
 |---------|-------|--------------|
@@ -368,20 +368,20 @@ Agar parallel oʻqisangiz, har bir bosqich taxminan bir hafta davom etadi. Agar 
 
 ### Andozalar kutubxonasi
 
-- [English](https://amitabhakarmakar.github.io/harness-engineering/en/resources) — templates, checklists, and method references
-- [简体中文](https://amitabhakarmakar.github.io/harness-engineering/zh/resources) — 中文模板、清单和方法参考
-- [繁體中文](https://amitabhakarmakar.github.io/harness-engineering/zh-TW/resources) — 繁體中文範本、清單和方法參考
-- [日本語](https://amitabhakarmakar.github.io/harness-engineering/ja/resources) — テンプレート、チェックリスト、方法リファレンス
-- [한국어](https://amitabhakarmakar.github.io/harness-engineering/ko/resources) — 템플릿, 체크리스트, 방법 참고 자료
-- [Español](https://amitabhakarmakar.github.io/harness-engineering/es/resources) — plantillas, listas de verificación y referencias
-- [Français](https://amitabhakarmakar.github.io/harness-engineering/fr/resources) — modèles, listes de contrôle et références
-- [Русский](https://amitabhakarmakar.github.io/harness-engineering/ru/resources) — шаблоны, чек-листы и справочники
-- [Deutsch](https://amitabhakarmakar.github.io/harness-engineering/de/resources) — Vorlagen, Checklisten und Referenzen
-- [العربية](https://amitabhakarmakar.github.io/harness-engineering/ar/resources) — قوالب، قوائم تحقق ومراجع
-- [Tiếng Việt](https://amitabhakarmakar.github.io/harness-engineering/vi/resources) — mẫu, danh sách kiểm tra và tài liệu tham khảo
-- [Oʻzbekcha](https://amitabhakarmakar.github.io/harness-engineering/uz/resources) — andozalar, tekshiruv roʻyxatlari va maʼlumotnomalar
-- [Türkçe](https://amitabhakarmakar.github.io/harness-engineering/tr/resources) — şablonlar, kontrol listeleri ve referanslar
-- [Português (BR)](https://amitabhakarmakar.github.io/harness-engineering/pt-BR/resources) — modelos, listas de verificação e referências de métodos
+- [English](https://letslego.github.io/harness-engineering/en/resources) — templates, checklists, and method references
+- [简体中文](https://letslego.github.io/harness-engineering/zh/resources) — 中文模板、清单和方法参考
+- [繁體中文](https://letslego.github.io/harness-engineering/zh-TW/resources) — 繁體中文範本、清單和方法參考
+- [日本語](https://letslego.github.io/harness-engineering/ja/resources) — テンプレート、チェックリスト、方法リファレンス
+- [한국어](https://letslego.github.io/harness-engineering/ko/resources) — 템플릿, 체크리스트, 방법 참고 자료
+- [Español](https://letslego.github.io/harness-engineering/es/resources) — plantillas, listas de verificación y referencias
+- [Français](https://letslego.github.io/harness-engineering/fr/resources) — modèles, listes de contrôle et références
+- [Русский](https://letslego.github.io/harness-engineering/ru/resources) — шаблоны, чек-листы и справочники
+- [Deutsch](https://letslego.github.io/harness-engineering/de/resources) — Vorlagen, Checklisten und Referenzen
+- [العربية](https://letslego.github.io/harness-engineering/ar/resources) — قوالب، قوائم تحقق ومراجع
+- [Tiếng Việt](https://letslego.github.io/harness-engineering/vi/resources) — mẫu, danh sách kiểm tra và tài liệu tham khảo
+- [Oʻzbekcha](https://letslego.github.io/harness-engineering/uz/resources) — andozalar, tekshiruv roʻyxatlari va maʼlumotnomalar
+- [Türkçe](https://letslego.github.io/harness-engineering/tr/resources) — şablonlar, kontrol listeleri ve referanslar
+- [Português (BR)](https://letslego.github.io/harness-engineering/pt-BR/resources) — modelos, listas de verificação e referências de métodos
 
 ---
 
@@ -568,7 +568,7 @@ Ushbu repozitoriy, shuningdek, toʻgʻridan-toʻgʻri IDE yoki agent ish muhitig
 
 Bizning jamoamiz yana boshqa kurslar ham yaratdi! Ularni koʻrib chiqing:
 
-[![Hands-on Modern RL](https://img.shields.io/badge/HANDS--ON_MODERN_RL-0052cc?style=for-the-badge)](https://amitabhakarmakar.github.io/harness-engineering)
+[![Hands-on Modern RL](https://img.shields.io/badge/HANDS--ON_MODERN_RL-0052cc?style=for-the-badge)](https://letslego.github.io/harness-engineering)
 
 **Hands-on Modern RL**: Asosiy RL konsepsiyalaridan LLM alignment, RLVR va ilgʻor agent tizimlarigacha boʻlgan masofani bridjlash uchun ochiq manbali amaliy oʻquv dasturi.
 

@@ -1,7 +1,7 @@
 [中文版本 →](../../../zh/projects/project-04-incremental-indexing/)
 
 > İlgili dersler: [Ders 07. Ajanlar için net görev sınırları çizin](./../../lectures/lecture-07-why-agents-overreach-and-under-finish/) · [Ders 08. Ajanın yaptıklarını sınırlamak için özellik listeleri kullanın](./../../lectures/lecture-08-why-feature-lists-are-harness-primitives/)
-> Şablon dosyaları: [templates/](https://amitabhakarmakar.github.io/harness-engineering/en/resources/templates)
+> Şablon dosyaları: [templates/](https://letslego.github.io/harness-engineering/en/resources/templates)
 
 # Proje 04. Ajan davranışını düzeltmek için runtime geri bildirimi kullanın
 
@@ -15,14 +15,14 @@ Depodaki starter'da runtime bug'ı kasıtlı olarak bırakılmıştır; fakat ta
 
 ## Depodaki projeyi kullanın
 
-Depo yolu: [`projects/project-04/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-04)
+Depo yolu: [`projects/project-04/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-04)
 
 | Dizin | İçerik | Nasıl kullanılır |
 |------|------|------|
-| [`starter/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-04/starter) | Project 03 kodu; tanılama sinyali zayıftır. Gömülü indexing hatası büyük dosya parçalamayı bozar ve mimari kontrol betiği yoktur. | Runtime sinyali yokken agent'ın kök nedeni ne kadar sürede bulduğunu ölçün. |
-| [`solution/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-04/solution) | Yapılandırılmış logger, mimari sınır dokümanı ve betiği, düzeltilmiş parçalama mantığı ve [`clean-state-checklist.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-04/solution/clean-state-checklist.md). | Logların ve sınır kontrollerinin düzeltmeyi hızlandırıp daha az yan etki üretip üretmediğini kontrol edin. |
+| [`starter/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-04/starter) | Project 03 kodu; tanılama sinyali zayıftır. Gömülü indexing hatası büyük dosya parçalamayı bozar ve mimari kontrol betiği yoktur. | Runtime sinyali yokken agent'ın kök nedeni ne kadar sürede bulduğunu ölçün. |
+| [`solution/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-04/solution) | Yapılandırılmış logger, mimari sınır dokümanı ve betiği, düzeltilmiş parçalama mantığı ve [`clean-state-checklist.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-04/solution/clean-state-checklist.md). | Logların ve sınır kontrollerinin düzeltmeyi hızlandırıp daha az yan etki üretip üretmediğini kontrol edin. |
 
-Özellikle [`projects/project-04/solution/src/services/logger.ts`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-04/solution/src/services/logger.ts), [`projects/project-04/solution/scripts/check-architecture.sh`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-04/solution/scripts/check-architecture.sh), [`projects/project-04/solution/docs/ARCHITECTURE.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-04/solution/docs/ARCHITECTURE.md) ve [`projects/project-04/solution/src/services/indexing-service.ts`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-04/solution/src/services/indexing-service.ts) dosyalarına bakın.
+Özellikle [`projects/project-04/solution/src/services/logger.ts`](https://github.com/letslego/harness-engineering/blob/main/projects/project-04/solution/src/services/logger.ts), [`projects/project-04/solution/scripts/check-architecture.sh`](https://github.com/letslego/harness-engineering/blob/main/projects/project-04/solution/scripts/check-architecture.sh), [`projects/project-04/solution/docs/ARCHITECTURE.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-04/solution/docs/ARCHITECTURE.md) ve [`projects/project-04/solution/src/services/indexing-service.ts`](https://github.com/letslego/harness-engineering/blob/main/projects/project-04/solution/src/services/indexing-service.ts) dosyalarına bakın.
 
 ## Araçlar
 

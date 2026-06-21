@@ -1,6 +1,6 @@
 [English Version →](../../../en/lectures/lecture-10-why-end-to-end-testing-changes-results/)
 
-> 本篇程式碼示例：[code/](https://amitabhakarmakar.github.io/harness-engineering/zh-TW/lectures/lecture-10-why-end-to-end-testing-changes-results/code)
+> 本篇程式碼示例：[code/](https://letslego.github.io/harness-engineering/zh-TW/lectures/lecture-10-why-end-to-end-testing-changes-results/code)
 > 實戰練習：[Project 05. 讓代理自己檢查自己做得對不對](./../../projects/project-05-grounded-qa-verification/)
 
 # 第十講. 跑通完整流程才算真正驗證

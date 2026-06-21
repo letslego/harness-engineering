@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-06-why-initialization-needs-its-own-phase/)
 
-> Codebeispiele: [code/](https://amitabhakarmakar.github.io/harness-engineering/de/lectures/lecture-06-why-initialization-needs-its-own-phase/code)
+> Codebeispiele: [code/](https://letslego.github.io/harness-engineering/de/lectures/lecture-06-why-initialization-needs-its-own-phase/code)
 > Praxisprojekt: [Project 03. Multi-session continuity](./../../projects/project-03-multi-session-continuity/)
 
 # Lektion 06. Vor jeder Agenten-Session initialisieren

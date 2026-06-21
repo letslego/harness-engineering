@@ -1,6 +1,6 @@
 [中文版 →](../../../zh/lectures/lecture-12-why-every-session-must-leave-a-clean-state/)
 
-> Exemplos de código: [code/](https://amitabhakarmakar.github.io/harness-engineering/pt-BR/lectures/lecture-12-why-every-session-must-leave-a-clean-state/code)
+> Exemplos de código: [code/](https://letslego.github.io/harness-engineering/pt-BR/lectures/lecture-12-why-every-session-must-leave-a-clean-state/code)
 > Projeto prático: [Projeto 06. Construir um Workspace Completo para Agentes](./../../projects/project-06-runtime-observability-and-debugging/)
 
 # Aula 12. Deixe uma Transferência Limpa ao Final de Cada Sessão

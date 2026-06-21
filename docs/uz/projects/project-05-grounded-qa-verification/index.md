@@ -1,7 +1,7 @@
 [English version →](../../../en/projects/project-05-grounded-qa-verification/)
 
 > Tegishli maʼruzalar: [9-maʼruza. Agentlarni vaqtidan oldin gʻalabani eʼlon qilishdan saqlash](./../../lectures/lecture-09-why-agents-declare-victory-too-early/) · [10-maʼruza. Faqatgina End-to-End testlash chinakam tekshiruvdir](./../../lectures/lecture-10-why-end-to-end-testing-changes-results/)
-> Andoza fayllari: [templates/](https://amitabhakarmakar.github.io/harness-engineering/en/resources/templates)
+> Andoza fayllari: [templates/](https://letslego.github.io/harness-engineering/en/resources/templates)
 
 # Loyiha 05. Agentga oʻz ishini oʻzi tekshirishiga imkon bering
 
@@ -13,14 +13,14 @@ Diqqatga sazovor boʻlgan biror funksiya yangilanishini tanlang (koʻp bosqichli
 
 ## Repodagi tayyor loyihadan foydalaning
 
-Repo yoʻli: [`projects/project-05/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-05)
+Repo yoʻli: [`projects/project-05/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-05)
 
 | Katalog | Nimalar bor | Nimani taqqoslash |
 |------|------|------|
-| [`starter/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-05/starter) | Project 04 asosidagi app, conversation history upgradeʼdan oldingi holat. | Uch variantni qayta ishga tushirish uchun boshlangʻich nuqta. |
-| [`solution/single-role/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-05/solution/single-role) | Bitta agent rejalaydi, implement qiladi va oʻzini baholaydi. | [`evaluator-rubric.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-05/solution/single-role/evaluator-rubric.md)dagi ball va nuqsonlar. |
-| [`solution/gen-eval/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-05/solution/gen-eval) | Generator + evaluator, revision dalillari bor. | [`evaluator-rubric.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-05/solution/gen-eval/evaluator-rubric.md)dagi ball va revision notes. |
-| [`solution/plan-gen-eval/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-05/solution/plan-gen-eval) | Planner + generator + evaluator va sprint contract. | [`sprint-contract.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/sprint-contract.md) hamda [`evaluator-rubric.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/evaluator-rubric.md)dagi yuqoriroq baho dalillari. |
+| [`starter/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-05/starter) | Project 04 asosidagi app, conversation history upgradeʼdan oldingi holat. | Uch variantni qayta ishga tushirish uchun boshlangʻich nuqta. |
+| [`solution/single-role/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-05/solution/single-role) | Bitta agent rejalaydi, implement qiladi va oʻzini baholaydi. | [`evaluator-rubric.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-05/solution/single-role/evaluator-rubric.md)dagi ball va nuqsonlar. |
+| [`solution/gen-eval/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-05/solution/gen-eval) | Generator + evaluator, revision dalillari bor. | [`evaluator-rubric.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-05/solution/gen-eval/evaluator-rubric.md)dagi ball va revision notes. |
+| [`solution/plan-gen-eval/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-05/solution/plan-gen-eval) | Planner + generator + evaluator va sprint contract. | [`sprint-contract.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/sprint-contract.md) hamda [`evaluator-rubric.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/evaluator-rubric.md)dagi yuqoriroq baho dalillari. |
 
 ## Vositalar
 

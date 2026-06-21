@@ -1,6 +1,6 @@
 [English Version →](../../../en/lectures/lecture-10-why-end-to-end-testing-changes-results/) | [中文版本 →](../../../zh/lectures/lecture-10-why-end-to-end-testing-changes-results/)
 
-> Code ví dụ cho bài giảng này: [code/](https://amitabhakarmakar.github.io/harness-engineering/vi/lectures/lecture-10-why-end-to-end-testing-changes-results/code)
+> Code ví dụ cho bài giảng này: [code/](https://letslego.github.io/harness-engineering/vi/lectures/lecture-10-why-end-to-end-testing-changes-results/code)
 > Thực hành: [Dự án 05. Để agent xác minh công việc của chính nó](./../../projects/project-05-grounded-qa-verification/)
 
 # Bài 10. Chỉ chạy toàn bộ pipeline mới tính là xác minh thật sự

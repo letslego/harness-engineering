@@ -4,7 +4,7 @@ Learn Harness Engineering es un curso dedicado a la ingeniería de agentes de pr
 - [OpenAI: Harness engineering: leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/)
 - [Anthropic: Effective harnesses for long-running agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
 - [Anthropic: Harness design for long-running application development](https://www.anthropic.com/engineering/harness-design-long-running-apps)
-- [Awesome Harness Engineering](https://amitabhakarmakar.github.io/harness-engineering)
+- [Awesome Harness Engineering](https://letslego.github.io/harness-engineering)
 
 Mediante diseño sistemático del entorno, gestión de estado, verificación y sistemas de control, este curso enseña cómo hacer que herramientas agentic de programación como Codex y Claude Code sean realmente fiables. Aprenderás a construir funciones, corregir errores y automatizar tareas de desarrollo limitando a tu asistente de programación con reglas y límites explícitos.
 

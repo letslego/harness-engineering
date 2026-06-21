@@ -1,7 +1,7 @@
 [中文版本 →](../../../zh/projects/project-05-grounded-qa-verification/)
 
 > محاضرات مرتبطة: [المحاضرة 09. امنع الوكلاء من إعلان النجاح مبكرًا](./../../lectures/lecture-09-why-agents-declare-victory-too-early/) · [المحاضرة 10. التشغيل الكامل للـ pipeline فقط يُعد تحققًا حقيقيًا](./../../lectures/lecture-10-why-end-to-end-testing-changes-results/)
-> ملفات القوالب: [templates/](https://amitabhakarmakar.github.io/harness-engineering/ar/resources/templates)
+> ملفات القوالب: [templates/](https://letslego.github.io/harness-engineering/ar/resources/templates)
 
 # المشروع 05. اجعل الوكيل يتحقق من عمله
 
@@ -13,14 +13,14 @@
 
 ## استخدم المشروع الموجود في المستودع
 
-مسار المستودع: [`projects/project-05/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-05)
+مسار المستودع: [`projects/project-05/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-05)
 
 | المجلد | ماذا يحتوي | ماذا تقارن |
 |------|------|------|
-| [`starter/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-05/starter) | تطبيق مبني على Project 04 قبل ترقية سجل المحادثة. | نقطة البداية إذا أردت إعادة تشغيل المتغيرات الثلاثة. |
-| [`solution/single-role/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-05/solution/single-role) | وكيل واحد يخطط وينفذ ويقيّم نفسه. | الدرجة والعيوب في [`evaluator-rubric.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-05/solution/single-role/evaluator-rubric.md). |
-| [`solution/gen-eval/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-05/solution/gen-eval) | generator + evaluator مع دليل مراجعة. | الدرجة وملاحظات revision في [`evaluator-rubric.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-05/solution/gen-eval/evaluator-rubric.md). |
-| [`solution/plan-gen-eval/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-05/solution/plan-gen-eval) | planner + generator + evaluator مع sprint contract. | [`sprint-contract.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/sprint-contract.md) ودليل الدرجة الأعلى في [`evaluator-rubric.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/evaluator-rubric.md). |
+| [`starter/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-05/starter) | تطبيق مبني على Project 04 قبل ترقية سجل المحادثة. | نقطة البداية إذا أردت إعادة تشغيل المتغيرات الثلاثة. |
+| [`solution/single-role/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-05/solution/single-role) | وكيل واحد يخطط وينفذ ويقيّم نفسه. | الدرجة والعيوب في [`evaluator-rubric.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-05/solution/single-role/evaluator-rubric.md). |
+| [`solution/gen-eval/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-05/solution/gen-eval) | generator + evaluator مع دليل مراجعة. | الدرجة وملاحظات revision في [`evaluator-rubric.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-05/solution/gen-eval/evaluator-rubric.md). |
+| [`solution/plan-gen-eval/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-05/solution/plan-gen-eval) | planner + generator + evaluator مع sprint contract. | [`sprint-contract.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/sprint-contract.md) ودليل الدرجة الأعلى في [`evaluator-rubric.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/evaluator-rubric.md). |
 
 ## الأدوات
 

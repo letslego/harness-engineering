@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-04-why-one-giant-instruction-file-fails/)
 
-> Kod örnekleri: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-04-why-one-giant-instruction-file-fails/code)
+> Kod örnekleri: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-04-why-one-giant-instruction-file-fails/code)
 > Uygulama projesi: [Proje 02. Ajanın okuyabildiği çalışma alanı](./../../projects/project-02-agent-readable-workspace/)
 
 # Ders 04. Tek bir dev talimat dosyası neden yetmez

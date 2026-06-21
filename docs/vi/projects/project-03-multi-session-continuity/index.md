@@ -1,7 +1,7 @@
 [English Version →](../../../en/projects/project-03-multi-session-continuity/) | [中文版本 →](../../../zh/projects/project-03-multi-session-continuity/)
 
 > Bài giảng liên quan: [Bài 05. Duy trì ngữ cảnh qua các phiên](./../../lectures/lecture-05-why-long-running-tasks-lose-continuity/) · [Bài 06. Khởi tạo trước mỗi phiên agent](./../../lectures/lecture-06-why-initialization-needs-its-own-phase/)
-> Tệp mẫu: [templates/](https://amitabhakarmakar.github.io/harness-engineering/vi/resources/templates)
+> Tệp mẫu: [templates/](https://letslego.github.io/harness-engineering/vi/resources/templates)
 
 # Dự án 03. Giữ cho Agent Tiếp tục Làm việc Qua Các Lần Khởi động Lại Phiên
 
@@ -13,12 +13,12 @@ Bạn chạy hai lần: lần đầu không có ràng buộc, lần hai với th
 
 ## Dùng project có sẵn trong repo
 
-Đường dẫn repo: [`projects/project-03/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-03)
+Đường dẫn repo: [`projects/project-03/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-03)
 
 | Thư mục | Nội dung | So sánh gì |
 |------|------|------|
-| [`starter/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-03/starter) | Code Project 02 với indexing và Q&A có citation vẫn chưa hoàn chỉnh. Có [`feature_list.json`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-03/starter/feature_list.json) ban đầu nhưng chưa có artefact handoff/restart cuối cùng. | Agent có drift qua nhiều tính năng hoặc mất trạng thái sau restart không. |
-| [`solution/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-03/solution) | Chunking, metadata, index status và citation-based QA đã hoàn thành, thêm [`init.sh`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-03/solution/init.sh), [`session-handoff.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-03/solution/session-handoff.md), [`claude-progress.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-03/solution/claude-progress.md), [`clean-state-checklist.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-03/solution/clean-state-checklist.md). | Mỗi tính năng có bằng chứng kiểm chứng trước khi đánh dấu pass không. |
+| [`starter/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-03/starter) | Code Project 02 với indexing và Q&A có citation vẫn chưa hoàn chỉnh. Có [`feature_list.json`](https://github.com/letslego/harness-engineering/blob/main/projects/project-03/starter/feature_list.json) ban đầu nhưng chưa có artefact handoff/restart cuối cùng. | Agent có drift qua nhiều tính năng hoặc mất trạng thái sau restart không. |
+| [`solution/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-03/solution) | Chunking, metadata, index status và citation-based QA đã hoàn thành, thêm [`init.sh`](https://github.com/letslego/harness-engineering/blob/main/projects/project-03/solution/init.sh), [`session-handoff.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-03/solution/session-handoff.md), [`claude-progress.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-03/solution/claude-progress.md), [`clean-state-checklist.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-03/solution/clean-state-checklist.md). | Mỗi tính năng có bằng chứng kiểm chứng trước khi đánh dấu pass không. |
 
 ## Công cụ
 

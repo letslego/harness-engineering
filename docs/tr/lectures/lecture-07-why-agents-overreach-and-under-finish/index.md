@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-07-why-agents-overreach-and-under-finish/)
 
-> Kod örnekleri: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-07-why-agents-overreach-and-under-finish/code)
+> Kod örnekleri: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-07-why-agents-overreach-and-under-finish/code)
 > Uygulama projesi: [Proje 04. Çalışma zamanı geri bildirimi ve kapsam kontrolü](./../../projects/project-04-incremental-indexing/)
 
 # Ders 07. Ajanlar neden sınırı aşar ve bitirmez

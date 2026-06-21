@@ -1,7 +1,7 @@
 # Project 06. 搭建完整的代理工作環境
 
 > 相關講義：[L11. 讓 agent 的執行過程可觀測](./../../lectures/lecture-11-why-observability-belongs-inside-the-harness/) · [L12. 每次工作階段結束前都做好交接](./../../lectures/lecture-12-why-every-session-must-leave-a-clean-state/)
-> 本篇範本檔案：[templates/](https://amitabhakarmakar.github.io/harness-engineering/zh-TW/resources/templates)
+> 本篇範本檔案：[templates/](https://letslego.github.io/harness-engineering/zh-TW/resources/templates)
 
 ## 你要做什麼
 
@@ -11,12 +11,12 @@
 
 ## 使用倉庫內建專案
 
-倉庫路徑：[`projects/project-06/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-06)
+倉庫路徑：[`projects/project-06/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-06)
 
 | 目錄 | 內容 | 怎麼用 / 比較什麼 |
 |------|------|------|
-| [`starter/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-06/starter) | 產品功能基本完整，但 harness 表面刻意削弱（只有基礎 [`AGENTS.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-06/starter/AGENTS.md)，沒有 `feature_list.json` / `session-handoff.md` / `clean-state-checklist.md`，也沒有 benchmark/cleanup 腳本）。 | 起始版本刻意不包含基準測試腳本。手動記錄弱 harness 基線行為（錯誤定位速度、是否過早宣告完成等）。 |
-| [`solution/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-06/solution) | 最大化 harness：[`AGENTS.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-06/solution/AGENTS.md)、[`CLAUDE.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-06/solution/CLAUDE.md)、[`feature_list.json`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-06/solution/feature_list.json)、[`init.sh`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-06/solution/init.sh)、[`session-handoff.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-06/solution/session-handoff.md)、[`clean-state-checklist.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-06/solution/clean-state-checklist.md)、品質/評估文檔、benchmark 與 cleanup 腳本。 | 在 [`projects/project-06/solution/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-06/solution) 下跑 `./scripts/benchmark.sh` 與 `./scripts/cleanup-scanner.sh`，再對照品質文檔證據。 |
+| [`starter/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-06/starter) | 產品功能基本完整，但 harness 表面刻意削弱（只有基礎 [`AGENTS.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-06/starter/AGENTS.md)，沒有 `feature_list.json` / `session-handoff.md` / `clean-state-checklist.md`，也沒有 benchmark/cleanup 腳本）。 | 起始版本刻意不包含基準測試腳本。手動記錄弱 harness 基線行為（錯誤定位速度、是否過早宣告完成等）。 |
+| [`solution/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-06/solution) | 最大化 harness：[`AGENTS.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-06/solution/AGENTS.md)、[`CLAUDE.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-06/solution/CLAUDE.md)、[`feature_list.json`](https://github.com/letslego/harness-engineering/blob/main/projects/project-06/solution/feature_list.json)、[`init.sh`](https://github.com/letslego/harness-engineering/blob/main/projects/project-06/solution/init.sh)、[`session-handoff.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-06/solution/session-handoff.md)、[`clean-state-checklist.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-06/solution/clean-state-checklist.md)、品質/評估文檔、benchmark 與 cleanup 腳本。 | 在 [`projects/project-06/solution/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-06/solution) 下跑 `./scripts/benchmark.sh` 與 `./scripts/cleanup-scanner.sh`，再對照品質文檔證據。 |
 
 與前幾個專案不同，這份結業起始版本在產品功能上基本完整，主要缺口在於應用外圍的 harness 運作機制。
 

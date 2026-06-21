@@ -5,7 +5,7 @@ Learn Harness Engineering là khóa học chuyên sâu về kỹ thuật dành c
 - [OpenAI: Harness engineering: leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/)
 - [Anthropic: Effective harnesses for long-running agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
 - [Anthropic: Harness design for long-running application development](https://www.anthropic.com/engineering/harness-design-long-running-apps)
-- [Awesome Harness Engineering](https://amitabhakarmakar.github.io/harness-engineering)
+- [Awesome Harness Engineering](https://letslego.github.io/harness-engineering)
 
 Qua cách thiết kế môi trường có hệ thống, quản lý trạng thái, xác minh kết quả và kiểm soát chặt chẽ, khóa học giúp bạn biến các công cụ lập trình agent như Codex và Claude Code thành những trợ thủ thực sự đáng tin cậy. Bạn sẽ được hướng dẫn để xây dựng tính năng, sửa lỗi và tự động hóa các tác vụ phát triển, bằng cách ràng buộc trợ lý lập trình AI của bạn trong một bộ quy tắc và ranh giới rõ ràng.
 

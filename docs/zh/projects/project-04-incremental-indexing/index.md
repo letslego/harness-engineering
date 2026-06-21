@@ -1,7 +1,7 @@
 # Project 04. 用运行反馈修正 agent 的行为
 
 > 相关讲义：[L07. 为什么 agent 会多做或少做](./../../lectures/lecture-07-why-agents-overreach-and-under-finish/) · [L08. 为什么功能清单是 harness 原语](./../../lectures/lecture-08-why-feature-lists-are-harness-primitives/)
-> 本篇模板文件：[templates/](https://amitabhakarmakar.github.io/harness-engineering/zh/resources/templates)
+> 本篇模板文件：[templates/](https://letslego.github.io/harness-engineering/zh/resources/templates)
 
 ## 你要做什么
 
@@ -13,14 +13,14 @@
 
 ## 使用仓库里的项目
 
-仓库路径：[`projects/project-04/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-04)
+仓库路径：[`projects/project-04/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-04)
 
 | 目录 | 里面有什么 | 比较什么 |
 |------|------|------|
-| [`starter/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-04/starter) | Project 03 代码，诊断信号较弱。植入的 indexing 缺陷会让大文件分块异常，并且没有架构检查脚本。 | 没有运行时信号时，agent 多久能找到根因。 |
-| [`solution/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-04/solution) | 结构化 logger、架构边界文档和脚本、修复后的分块逻辑、[`clean-state-checklist.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-04/solution/clean-state-checklist.md)。 | 日志和边界检查是否让修复更快、更少破坏。 |
+| [`starter/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-04/starter) | Project 03 代码，诊断信号较弱。植入的 indexing 缺陷会让大文件分块异常，并且没有架构检查脚本。 | 没有运行时信号时，agent 多久能找到根因。 |
+| [`solution/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-04/solution) | 结构化 logger、架构边界文档和脚本、修复后的分块逻辑、[`clean-state-checklist.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-04/solution/clean-state-checklist.md)。 | 日志和边界检查是否让修复更快、更少破坏。 |
 
-重点检查 [`projects/project-04/solution/src/services/logger.ts`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-04/solution/src/services/logger.ts)、[`projects/project-04/solution/scripts/check-architecture.sh`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-04/solution/scripts/check-architecture.sh)、[`projects/project-04/solution/docs/ARCHITECTURE.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-04/solution/docs/ARCHITECTURE.md)、[`projects/project-04/solution/src/services/indexing-service.ts`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-04/solution/src/services/indexing-service.ts)。
+重点检查 [`projects/project-04/solution/src/services/logger.ts`](https://github.com/letslego/harness-engineering/blob/main/projects/project-04/solution/src/services/logger.ts)、[`projects/project-04/solution/scripts/check-architecture.sh`](https://github.com/letslego/harness-engineering/blob/main/projects/project-04/solution/scripts/check-architecture.sh)、[`projects/project-04/solution/docs/ARCHITECTURE.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-04/solution/docs/ARCHITECTURE.md)、[`projects/project-04/solution/src/services/indexing-service.ts`](https://github.com/letslego/harness-engineering/blob/main/projects/project-04/solution/src/services/indexing-service.ts)。
 
 ## 用什么工具
 
@@ -53,7 +53,7 @@
 切到 `p04-improved` 分支。在启动 agent 之前，先在仓库里准备好：
 
 - **运行时日志**：对照 solution 的 `src/services/logger.ts`，启动、导入、索引、问答失败路径都有结构化日志。
-- **架构约束**：对照 solution 的 `AGENTS.md`、[`projects/project-04/solution/docs/ARCHITECTURE.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-04/solution/docs/ARCHITECTURE.md) 和 [`projects/project-04/solution/scripts/check-architecture.sh`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-04/solution/scripts/check-architecture.sh)，明确 Electron 四层边界（main / preload / renderer / services）。
+- **架构约束**：对照 solution 的 `AGENTS.md`、[`projects/project-04/solution/docs/ARCHITECTURE.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-04/solution/docs/ARCHITECTURE.md) 和 [`projects/project-04/solution/scripts/check-architecture.sh`](https://github.com/letslego/harness-engineering/blob/main/projects/project-04/solution/scripts/check-architecture.sh)，明确 Electron 四层边界（main / preload / renderer / services）。
 - **干净状态要求**：最终交付前必须能干净重启。
 
 然后启动 agent：

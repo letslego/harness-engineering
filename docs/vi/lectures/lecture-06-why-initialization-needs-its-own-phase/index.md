@@ -1,6 +1,6 @@
 [English Version →](../../../en/lectures/lecture-06-why-initialization-needs-its-own-phase/) | [中文版本 →](../../../zh/lectures/lecture-06-why-initialization-needs-its-own-phase/)
 
-> Ví dụ code: [code/](https://amitabhakarmakar.github.io/harness-engineering/vi/lectures/lecture-06-why-initialization-needs-its-own-phase/code)
+> Ví dụ code: [code/](https://letslego.github.io/harness-engineering/vi/lectures/lecture-06-why-initialization-needs-its-own-phase/code)
 > Dự án thực hành: [Dự án 03. Tính liên tục đa phiên](./../../projects/project-03-multi-session-continuity/)
 
 # Bài 06. Khởi tạo trước mỗi phiên agent

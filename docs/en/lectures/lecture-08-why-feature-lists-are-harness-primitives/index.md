@@ -1,6 +1,6 @@
 [中文版 →](../../../zh/lectures/lecture-08-why-feature-lists-are-harness-primitives/)
 
-> Code examples: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-08-why-feature-lists-are-harness-primitives/code)
+> Code examples: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-08-why-feature-lists-are-harness-primitives/code)
 > Practice project: [Project 04. Runtime feedback and scope control](./../../projects/project-04-incremental-indexing/)
 
 # Lecture 08. Use Feature Lists to Constrain What the Agent Does

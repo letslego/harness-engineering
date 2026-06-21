@@ -1,6 +1,6 @@
 [English Version →](../../../en/lectures/lecture-11-why-observability-belongs-inside-the-harness/) | [中文版本 →](../../../zh/lectures/lecture-11-why-observability-belongs-inside-the-harness/)
 
-> Ví dụ code: [code/](https://amitabhakarmakar.github.io/harness-engineering/vi/lectures/lecture-11-why-observability-belongs-inside-the-harness/code)
+> Ví dụ code: [code/](https://letslego.github.io/harness-engineering/vi/lectures/lecture-11-why-observability-belongs-inside-the-harness/code)
 > Dự án thực hành: [Dự án 06. Harness Đầy đủ (Capstone)](./../../projects/project-06-runtime-observability-and-debugging/)
 
 # Bài 11. Làm cho runtime của agent có thể quan sát được

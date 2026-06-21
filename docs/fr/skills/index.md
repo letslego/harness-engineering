@@ -15,7 +15,7 @@ Un skill de harness engineering de niveau production pour agents de codage IA. I
 
 ### Démarrage rapide
 
-Les fichiers du skill se trouvent dans le dépôt sous [`skills/harness-creator/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/skills/harness-creator).
+Les fichiers du skill se trouvent dans le dépôt sous [`skills/harness-creator/`](https://github.com/letslego/harness-engineering/tree/main/skills/harness-creator).
 
 ```bash
 npx skills add amitabhakarmakar/harness-engineering --skill harness-creator

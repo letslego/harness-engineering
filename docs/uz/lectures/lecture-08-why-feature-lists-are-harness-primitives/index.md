@@ -1,6 +1,6 @@
 [English version →](../../../en/lectures/lecture-08-why-feature-lists-are-harness-primitives/)
 
-> Kod misollari: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-08-why-feature-lists-are-harness-primitives/code)
+> Kod misollari: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-08-why-feature-lists-are-harness-primitives/code)
 > Amaliy loyiha: [Loyiha 04. Runtime qayta aloqa va skoup nazorati](./../../projects/project-04-incremental-indexing/)
 
 # 8-maʼruza. Agent nima qilishini cheklash uchun funksiyalar roʻyxatidan foydalaning

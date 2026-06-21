@@ -1,6 +1,6 @@
 [English Version →](../../../en/lectures/lecture-12-why-every-session-must-leave-a-clean-state/) | [中文版本 →](../../../zh/lectures/lecture-12-why-every-session-must-leave-a-clean-state/)
 
-> Ví dụ code: [code/](https://amitabhakarmakar.github.io/harness-engineering/vi/lectures/lecture-12-why-every-session-must-leave-a-clean-state/code)
+> Ví dụ code: [code/](https://letslego.github.io/harness-engineering/vi/lectures/lecture-12-why-every-session-must-leave-a-clean-state/code)
 > Dự án thực hành: [Dự án 06. Harness Đầy đủ (Capstone)](./../../projects/project-06-runtime-observability-and-debugging/)
 
 # Bài 12. Bàn giao sạch ở cuối mỗi phiên

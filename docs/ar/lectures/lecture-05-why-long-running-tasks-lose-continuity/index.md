@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-05-why-long-running-tasks-lose-continuity/)
 
-> أمثلة الكود: [code/](https://amitabhakarmakar.github.io/harness-engineering/ar/lectures/lecture-05-why-long-running-tasks-lose-continuity/code)
+> أمثلة الكود: [code/](https://letslego.github.io/harness-engineering/ar/lectures/lecture-05-why-long-running-tasks-lose-continuity/code)
 > مشروع عملي: [Project 03. Multi-session continuity](./../../projects/project-03-multi-session-continuity/)
 
 # المحاضرة 05. حافظ على السياق عبر الجلسات

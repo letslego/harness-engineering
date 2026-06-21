@@ -15,7 +15,7 @@ AI kod yozuvchi agentlari uchun ishlab chiqarish darajasidagi (production-grade)
 
 ### Tez boshlash (Quick Start)
 
-Koʻnikma fayllari repozitoriyning [`skills/harness-creator/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/skills/harness-creator) qismida joylashgan.
+Koʻnikma fayllari repozitoriyning [`skills/harness-creator/`](https://github.com/letslego/harness-engineering/tree/main/skills/harness-creator) qismida joylashgan.
 
 ```bash
 npx skills add amitabhakarmakar/harness-engineering --skill harness-creator

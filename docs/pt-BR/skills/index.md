@@ -15,7 +15,7 @@ Uma habilidade de engenharia de harness de nível de produção para agentes de 
 
 ### Início Rápido
 
-Os arquivos da habilidade residem no repositório em [`skills/harness-creator/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/skills/harness-creator).
+Os arquivos da habilidade residem no repositório em [`skills/harness-creator/`](https://github.com/letslego/harness-engineering/tree/main/skills/harness-creator).
 
 ```bash
 npx skills add amitabhakarmakar/harness-engineering --skill harness-creator

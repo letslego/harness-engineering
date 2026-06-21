@@ -1,6 +1,6 @@
 [English Version →](../../../en/lectures/lecture-09-why-agents-declare-victory-too-early/) | [中文版本 →](../../../zh/lectures/lecture-09-why-agents-declare-victory-too-early/)
 
-> Code ví dụ cho bài giảng này: [code/](https://amitabhakarmakar.github.io/harness-engineering/vi/lectures/lecture-09-why-agents-declare-victory-too-early/code)
+> Code ví dụ cho bài giảng này: [code/](https://letslego.github.io/harness-engineering/vi/lectures/lecture-09-why-agents-declare-victory-too-early/code)
 > Thực hành: [Dự án 05. Để agent tự xác minh công việc của mình](./../../projects/project-05-grounded-qa-verification/)
 
 # Bài 9. Ngăn chặn agent tuyên bố thành công quá sớm

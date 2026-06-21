@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-06-why-initialization-needs-its-own-phase/)
 
-> Kod örnekleri: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-06-why-initialization-needs-its-own-phase/code)
+> Kod örnekleri: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-06-why-initialization-needs-its-own-phase/code)
 > Uygulama projesi: [Proje 03. Çok oturumlu süreklilik](./../../projects/project-03-multi-session-continuity/)
 
 # Ders 06. Başlatma neden kendine ait bir aşama olmalı

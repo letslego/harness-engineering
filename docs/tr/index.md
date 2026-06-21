@@ -4,7 +4,7 @@ Learn Harness Engineering, yapay zeka kod yazma ajanlarının mühendisliğine a
 - [OpenAI: Harness engineering — Codex'ten agent-first bir dünyada yararlanmak](https://openai.com/index/harness-engineering/)
 - [Anthropic: Uzun süreli ajanlar için etkili harness'lar](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
 - [Anthropic: Uzun süreli uygulama geliştirme için harness tasarımı](https://www.anthropic.com/engineering/harness-design-long-running-apps)
-- [Awesome Harness Engineering](https://amitabhakarmakar.github.io/harness-engineering)
+- [Awesome Harness Engineering](https://letslego.github.io/harness-engineering)
 
 Sistematik ortam tasarımı, durum yönetimi, doğrulama ve kontrol sistemleri aracılığıyla bu kurs, Codex ve Claude Code gibi ajan tabanlı kod araçlarını gerçekten güvenilir hale getirmeyi öğretir. Yapay zeka kod asistanınızı açık kurallar ve sınırlarla kısıtlayarak özellik geliştirmenize, hataları düzeltmenize ve geliştirme görevlerini otomatikleştirmenize yardımcı olur.
 

@@ -1,7 +1,7 @@
 [English version →](../../../en/projects/project-01-baseline-vs-minimal-harness/)
 
 > Tegishli maʼruzalar: [1-maʼruza. Kuchli modellar doim ham ishonchli degani emas](./../../lectures/lecture-01-why-capable-agents-still-fail/) · [2-maʼruza. Harness aslida nima degani](./../../lectures/lecture-02-what-a-harness-actually-is/)
-> Andoza fayllari: [templates/](https://amitabhakarmakar.github.io/harness-engineering/en/resources/templates)
+> Andoza fayllari: [templates/](https://letslego.github.io/harness-engineering/en/resources/templates)
 
 # Loyiha 01. Prompt-only vs. rules-first: Bu qanchalik farq qiladi
 
@@ -26,11 +26,11 @@ Minimal harness: `AGENTS.md` + `init.sh` + `feature_list.json`
 
 ## Repoga kiritilgan loyihadan foydalaning
 
-Repo yo‘li: [`projects/project-01/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-01)
+Repo yo‘li: [`projects/project-01/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-01)
 
 | Katalog | Nimalar bor | Qanday ishlatish / nimani taqqoslash |
 |------|------|------|
-| [`starter/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-01/starter) | Zaif harness yugurishi. Vazifa tavsifi sifatida faqat [`task-prompt.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-01/starter/task-prompt.md) bor, `AGENTS.md` yoki `feature_list.json` yo‘q. | Promptni agentga bering va qo‘shimcha tuzilmasiz nimalarni tugatishini o‘lchang. |
-| [`solution/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-01/solution) | Xuddi shu mahsulot kesimi, lekin aniq harness artefaktlari bilan: [`AGENTS.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-01/solution/AGENTS.md), [`CLAUDE.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-01/solution/CLAUDE.md), [`init.sh`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-01/solution/init.sh), [`feature_list.json`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-01/solution/feature_list.json), [`claude-progress.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-01/solution/claude-progress.md). | Qoidalar va tekshiruv bir xil vazifani qanday aniq va tekshiriladigan qiladi — taqqoslang. |
+| [`starter/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-01/starter) | Zaif harness yugurishi. Vazifa tavsifi sifatida faqat [`task-prompt.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-01/starter/task-prompt.md) bor, `AGENTS.md` yoki `feature_list.json` yo‘q. | Promptni agentga bering va qo‘shimcha tuzilmasiz nimalarni tugatishini o‘lchang. |
+| [`solution/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-01/solution) | Xuddi shu mahsulot kesimi, lekin aniq harness artefaktlari bilan: [`AGENTS.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-01/solution/AGENTS.md), [`CLAUDE.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-01/solution/CLAUDE.md), [`init.sh`](https://github.com/letslego/harness-engineering/blob/main/projects/project-01/solution/init.sh), [`feature_list.json`](https://github.com/letslego/harness-engineering/blob/main/projects/project-01/solution/feature_list.json), [`claude-progress.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-01/solution/claude-progress.md). | Qoidalar va tekshiruv bir xil vazifani qanday aniq va tekshiriladigan qiladi — taqqoslang. |
 
 4 ta aniq feature: oynani ishga tushirish, hujjatlar ro‘yxati, savol paneli va lokal ma’lumotlar katalogini yaratish. Har bir feature uchun kutiladigan evidence `solution/feature_list.json`da.

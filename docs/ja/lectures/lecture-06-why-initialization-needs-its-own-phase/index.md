@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-06-why-initialization-needs-its-own-phase/)
 
-> コード例: [code/](https://amitabhakarmakar.github.io/harness-engineering/ja/lectures/lecture-06-why-initialization-needs-its-own-phase/code)
+> コード例: [code/](https://letslego.github.io/harness-engineering/ja/lectures/lecture-06-why-initialization-needs-its-own-phase/code)
 > 実践プロジェクト: [Project 03. Multi-session continuity](./../../projects/project-03-multi-session-continuity/)
 
 # 講義 06. すべてのエージェントセッション前に初期化する

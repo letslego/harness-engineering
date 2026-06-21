@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/)
 
-> Ejemplos de código: [code/](https://amitabhakarmakar.github.io/harness-engineering/es/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/code)
+> Ejemplos de código: [code/](https://letslego.github.io/harness-engineering/es/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/code)
 > Proyecto práctico: [Proyecto 02. Espacio de trabajo legible para agentes](./../../projects/project-02-agent-readable-workspace/)
 
 # Lección 03. Convierte el repositorio en la fuente única de verdad

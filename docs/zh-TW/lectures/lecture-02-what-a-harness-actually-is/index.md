@@ -1,6 +1,6 @@
 [English Version →](../../../en/lectures/lecture-02-what-a-harness-actually-is/)
 
-> 本篇程式碼示例：[code/](https://amitabhakarmakar.github.io/harness-engineering/zh-TW/lectures/lecture-02-what-a-harness-actually-is/code)
+> 本篇程式碼示例：[code/](https://letslego.github.io/harness-engineering/zh-TW/lectures/lecture-02-what-a-harness-actually-is/code)
 > 實戰練習：[Project 01. 只寫提示詞讓代理做，和定好規則再讓它做，差多少](./../../projects/project-01-baseline-vs-minimal-harness/)
 
 # 第二講. Harness 到底是什麼

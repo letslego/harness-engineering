@@ -1,6 +1,6 @@
 [English Version →](../../../en/lectures/lecture-11-why-observability-belongs-inside-the-harness/)
 
-> 코드 예제: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-11-why-observability-belongs-inside-the-harness/code)
+> 코드 예제: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-11-why-observability-belongs-inside-the-harness/code)
 > 실습 프로젝트: [Project 06. 완전한 하네스 (캡스톤)](./../../projects/project-06-runtime-observability-and-debugging/)
 
 # 강의 11. 에이전트의 런타임을 관측 가능하게 만들어라

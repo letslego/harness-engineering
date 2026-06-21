@@ -1,7 +1,7 @@
 [中文版本 →](../../../zh/projects/project-02-agent-readable-workspace/)
 
 > محاضرات مرتبطة: [المحاضرة 03. اجعل المستودع مصدر الحقيقة الوحيد](./../../lectures/lecture-03-why-the-repository-must-become-the-system-of-record/) · [المحاضرة 04. قسّم التعليمات عبر ملفات](./../../lectures/lecture-04-why-one-giant-instruction-file-fails/)
-> ملفات القوالب: [templates/](https://amitabhakarmakar.github.io/harness-engineering/ar/resources/templates)
+> ملفات القوالب: [templates/](https://letslego.github.io/harness-engineering/ar/resources/templates)
 
 # المشروع 02. اجعل المشروع قابلًا للقراءة واستأنف من حيث توقفت
 
@@ -13,12 +13,12 @@
 
 ## استخدم المشروع الموجود في المستودع
 
-مسار المستودع: [`projects/project-02/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-02)
+مسار المستودع: [`projects/project-02/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-02)
 
 | المجلد | ماذا يحتوي | ماذا تقارن |
 |------|------|------|
-| [`starter/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-02/starter) | كود Project 01 مع import المستندات، عرض التفاصيل، و persistence غير مكتملة بعد. توجد وثائق لكنها أخف، ولا يوجد `session-handoff.md`. | مقدار السياق الذي تحتاج الجلسة الثانية من الوكيل إلى اكتشافه من جديد. |
-| [`solution/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-02/solution) | نفس جزء المنتج مكتمل، مع وثائق handoff تحت [`projects/project-02/solution/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-02/solution)، بالإضافة إلى [`feature_list.json`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-02/solution/feature_list.json) و [`session-handoff.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-02/solution/session-handoff.md). | هل تستطيع جلسة جديدة المتابعة اعتمادًا على حالة المستودع فقط. |
+| [`starter/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-02/starter) | كود Project 01 مع import المستندات، عرض التفاصيل، و persistence غير مكتملة بعد. توجد وثائق لكنها أخف، ولا يوجد `session-handoff.md`. | مقدار السياق الذي تحتاج الجلسة الثانية من الوكيل إلى اكتشافه من جديد. |
+| [`solution/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-02/solution) | نفس جزء المنتج مكتمل، مع وثائق handoff تحت [`projects/project-02/solution/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-02/solution)، بالإضافة إلى [`feature_list.json`](https://github.com/letslego/harness-engineering/blob/main/projects/project-02/solution/feature_list.json) و [`session-handoff.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-02/solution/session-handoff.md). | هل تستطيع جلسة جديدة المتابعة اعتمادًا على حالة المستودع فقط. |
 
 ## الأدوات
 

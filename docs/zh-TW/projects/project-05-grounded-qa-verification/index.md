@@ -1,7 +1,7 @@
 # Project 05. 讓代理自己檢查自己做得對不對
 
 > 相關講義：[L09. 防止 agent 提前宣告完成](./../../lectures/lecture-09-why-agents-declare-victory-too-early/) · [L10. 跑通完整流程才算真正驗證](./../../lectures/lecture-10-why-end-to-end-testing-changes-results/)
-> 本篇範本檔案：[templates/](https://amitabhakarmakar.github.io/harness-engineering/zh-TW/resources/templates)
+> 本篇範本檔案：[templates/](https://letslego.github.io/harness-engineering/zh-TW/resources/templates)
 
 ## 你要做什麼
 
@@ -13,14 +13,14 @@
 
 ## 使用倉庫內建專案
 
-倉庫路徑：[`projects/project-05/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-05)
+倉庫路徑：[`projects/project-05/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-05)
 
 | 目錄 | 內容 | 比較什麼 |
 |------|------|------|
-| [`starter/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-05/starter) | 以 Project 04 的應用為基礎，尚未實作 ConversationHistory（多輪對話歷史）升級。 | 若你要自己重跑三種變體，從這裡開始。 |
-| [`solution/single-role/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-05/solution/single-role) | 單角色：同一個代理負責規劃/實作/自查。 | [`evaluator-rubric.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-05/solution/single-role/evaluator-rubric.md) 1.6/5 分與缺陷清單。 |
-| [`solution/gen-eval/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-05/solution/gen-eval) | 生成者 + 評估者：有修訂與回饋證據。 | [`evaluator-rubric.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-05/solution/gen-eval/evaluator-rubric.md) 3.3/5 分與修訂記錄。 |
-| [`solution/plan-gen-eval/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-05/solution/plan-gen-eval) | 規劃者 + 生成者 + 評估者：有 sprint contract。 | [`sprint-contract.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/sprint-contract.md) 與 [`evaluator-rubric.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/evaluator-rubric.md) 4.9/5 分。 |
+| [`starter/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-05/starter) | 以 Project 04 的應用為基礎，尚未實作 ConversationHistory（多輪對話歷史）升級。 | 若你要自己重跑三種變體，從這裡開始。 |
+| [`solution/single-role/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-05/solution/single-role) | 單角色：同一個代理負責規劃/實作/自查。 | [`evaluator-rubric.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-05/solution/single-role/evaluator-rubric.md) 1.6/5 分與缺陷清單。 |
+| [`solution/gen-eval/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-05/solution/gen-eval) | 生成者 + 評估者：有修訂與回饋證據。 | [`evaluator-rubric.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-05/solution/gen-eval/evaluator-rubric.md) 3.3/5 分與修訂記錄。 |
+| [`solution/plan-gen-eval/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-05/solution/plan-gen-eval) | 規劃者 + 生成者 + 評估者：有 sprint contract。 | [`sprint-contract.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/sprint-contract.md) 與 [`evaluator-rubric.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/evaluator-rubric.md) 4.9/5 分。 |
 
 檢入的功能為多輪問答對話歷史。在三個變體中保持此功能不變，使唯一的變數為角色分離。
 

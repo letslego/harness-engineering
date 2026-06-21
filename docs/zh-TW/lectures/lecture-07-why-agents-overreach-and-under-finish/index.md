@@ -1,6 +1,6 @@
 [English Version →](../../../en/lectures/lecture-07-why-agents-overreach-and-under-finish/)
 
-> 本篇程式碼示例：[code/](https://amitabhakarmakar.github.io/harness-engineering/zh-TW/lectures/lecture-07-why-agents-overreach-and-under-finish/code)
+> 本篇程式碼示例：[code/](https://letslego.github.io/harness-engineering/zh-TW/lectures/lecture-07-why-agents-overreach-and-under-finish/code)
 > 實戰練習：[Project 04. 用執行回饋修正代理的行為](./../../projects/project-04-incremental-indexing/)
 
 # 第七講. 給 agent 劃清每次任務的邊界

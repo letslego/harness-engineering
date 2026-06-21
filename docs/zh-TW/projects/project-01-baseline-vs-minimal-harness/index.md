@@ -1,7 +1,7 @@
 # Project 01. 只寫提示詞讓代理做，和定好規則再讓它做，差多少
 
 > 相關講義：[L01. 模型能力強，不等於執行可靠](./../../lectures/lecture-01-why-capable-agents-still-fail/) · [L02. Harness 到底是什麼](./../../lectures/lecture-02-what-a-harness-actually-is/)
-> 本篇範本檔案：[templates/](https://amitabhakarmakar.github.io/harness-engineering/zh-TW/resources/templates)
+> 本篇範本檔案：[templates/](https://letslego.github.io/harness-engineering/zh-TW/resources/templates)
 
 ## 你要做什麼
 
@@ -13,12 +13,12 @@
 
 ## 使用倉庫內建專案
 
-倉庫路徑：[`projects/project-01/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-01)
+倉庫路徑：[`projects/project-01/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-01)
 
 | 目錄 | 內容 | 怎麼用 / 比較什麼 |
 |------|------|------|
-| [`starter/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-01/starter) | 弱 harness 版本。只有 [`task-prompt.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-01/starter/task-prompt.md) 作為任務描述，沒有 `AGENTS.md` 或 `feature_list.json`。 | 把提示詞交給程式碼代理，衡量它在沒有額外結構時完成了什麼。 |
-| [`solution/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-01/solution) | 相同的產品切片，但加入明確的 harness 產物：[`AGENTS.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-01/solution/AGENTS.md)、[`CLAUDE.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-01/solution/CLAUDE.md)、[`init.sh`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-01/solution/init.sh)、[`feature_list.json`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-01/solution/feature_list.json)、[`claude-progress.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-01/solution/claude-progress.md)。 | 對照規則與驗證證據如何把同一任務變得可執行、可驗收。 |
+| [`starter/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-01/starter) | 弱 harness 版本。只有 [`task-prompt.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-01/starter/task-prompt.md) 作為任務描述，沒有 `AGENTS.md` 或 `feature_list.json`。 | 把提示詞交給程式碼代理，衡量它在沒有額外結構時完成了什麼。 |
+| [`solution/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-01/solution) | 相同的產品切片，但加入明確的 harness 產物：[`AGENTS.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-01/solution/AGENTS.md)、[`CLAUDE.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-01/solution/CLAUDE.md)、[`init.sh`](https://github.com/letslego/harness-engineering/blob/main/projects/project-01/solution/init.sh)、[`feature_list.json`](https://github.com/letslego/harness-engineering/blob/main/projects/project-01/solution/feature_list.json)、[`claude-progress.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-01/solution/claude-progress.md)。 | 對照規則與驗證證據如何把同一任務變得可執行、可驗收。 |
 
 四個具體功能是視窗啟動、文件清單、問答面板、本地資料目錄建立。每個功能的預期證據請看 `solution/feature_list.json`。
 

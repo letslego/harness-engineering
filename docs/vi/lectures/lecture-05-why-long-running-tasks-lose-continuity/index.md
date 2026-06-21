@@ -1,6 +1,6 @@
 [English Version →](../../../en/lectures/lecture-05-why-long-running-tasks-lose-continuity/) | [中文版本 →](../../../zh/lectures/lecture-05-why-long-running-tasks-lose-continuity/)
 
-> Ví dụ code: [code/](https://amitabhakarmakar.github.io/harness-engineering/vi/lectures/lecture-05-why-long-running-tasks-lose-continuity/code)
+> Ví dụ code: [code/](https://letslego.github.io/harness-engineering/vi/lectures/lecture-05-why-long-running-tasks-lose-continuity/code)
 > Dự án thực hành: [Dự án 03. Tính liên tục đa phiên](./../../projects/project-03-multi-session-continuity/)
 
 # Bài 05. Duy trì ngữ cảnh xuyên suốt các phiên

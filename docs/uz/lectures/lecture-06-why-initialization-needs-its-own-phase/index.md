@@ -1,6 +1,6 @@
 [English version →](../../../en/lectures/lecture-06-why-initialization-needs-its-own-phase/)
 
-> Kod misollari: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-06-why-initialization-needs-its-own-phase/code)
+> Kod misollari: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-06-why-initialization-needs-its-own-phase/code)
 > Amaliy loyiha: [Loyiha 03. Koʻp sessiyali uzluksizlik](./../../projects/project-03-multi-session-continuity/)
 
 # 6-maʼruza. Har bir agent sessiyasidan oldin inisializatsiya qiling

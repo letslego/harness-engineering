@@ -1,7 +1,7 @@
 # Project 05. 让 agent 自己检查自己做的对不对
 
 > 相关讲义：[L09. 为什么 agent 会提前宣告完成](./../../lectures/lecture-09-why-agents-declare-victory-too-early/) · [L10. 为什么端到端测试会改变结果](./../../lectures/lecture-10-why-end-to-end-testing-changes-results/)
-> 本篇模板文件：[templates/](https://amitabhakarmakar.github.io/harness-engineering/zh/resources/templates)
+> 本篇模板文件：[templates/](https://letslego.github.io/harness-engineering/zh/resources/templates)
 
 ## 你要做什么
 
@@ -13,14 +13,14 @@
 
 ## 使用仓库里的项目
 
-仓库路径：[`projects/project-05/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-05)
+仓库路径：[`projects/project-05/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-05)
 
 | 目录 | 里面有什么 | 比较什么 |
 |------|------|------|
-| [`starter/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-05/starter) | ConversationHistory 升级前的 Project 04 应用。 | 如果要自己重跑三种变体，从这里开始。 |
-| [`solution/single-role/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-05/solution/single-role) | 一个 agent 规划、实现、自评。 | [`evaluator-rubric.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-05/solution/single-role/evaluator-rubric.md) 评分 1.6/5 和缺陷列表。 |
-| [`solution/gen-eval/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-05/solution/gen-eval) | 生成者 + 评估者，有修订证据。 | [`evaluator-rubric.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-05/solution/gen-eval/evaluator-rubric.md) 评分 3.3/5 和修订记录。 |
-| [`solution/plan-gen-eval/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-05/solution/plan-gen-eval) | 规划者 + 生成者 + 评估者。 | [`sprint-contract.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/sprint-contract.md)、[`evaluator-rubric.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/evaluator-rubric.md) 评分 4.9/5。 |
+| [`starter/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-05/starter) | ConversationHistory 升级前的 Project 04 应用。 | 如果要自己重跑三种变体，从这里开始。 |
+| [`solution/single-role/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-05/solution/single-role) | 一个 agent 规划、实现、自评。 | [`evaluator-rubric.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-05/solution/single-role/evaluator-rubric.md) 评分 1.6/5 和缺陷列表。 |
+| [`solution/gen-eval/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-05/solution/gen-eval) | 生成者 + 评估者，有修订证据。 | [`evaluator-rubric.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-05/solution/gen-eval/evaluator-rubric.md) 评分 3.3/5 和修订记录。 |
+| [`solution/plan-gen-eval/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-05/solution/plan-gen-eval) | 规划者 + 生成者 + 评估者。 | [`sprint-contract.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/sprint-contract.md)、[`evaluator-rubric.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/evaluator-rubric.md) 评分 4.9/5。 |
 
 已提交的固定功能是多轮问答历史。重跑时保持功能不变，唯一变量是角色分工。
 

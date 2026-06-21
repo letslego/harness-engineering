@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-10-why-end-to-end-testing-changes-results/)
 
-> Примеры кода: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-10-why-end-to-end-testing-changes-results/code)
+> Примеры кода: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-10-why-end-to-end-testing-changes-results/code)
 > Практический проект: [Project 05. Let the agent verify its own work](./../../projects/project-05-grounded-qa-verification/)
 
 # Лекция 10. Только сквозное тестирование — настоящая верификация

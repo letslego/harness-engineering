@@ -1,6 +1,6 @@
 [English Version →](../../../en/lectures/lecture-12-why-every-session-must-leave-a-clean-state/)
 
-> 코드 예제: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-12-why-every-session-must-leave-a-clean-state/code)
+> 코드 예제: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-12-why-every-session-must-leave-a-clean-state/code)
 > 실습 프로젝트: [Project 06. 완전한 하네스 (캡스톤)](./../../projects/project-06-runtime-observability-and-debugging/)
 
 # 강의 12. 모든 세션은 클린 상태(clean state)로 끝나야 한다

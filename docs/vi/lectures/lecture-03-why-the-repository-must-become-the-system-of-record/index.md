@@ -1,6 +1,6 @@
 [English Version →](../../../en/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/) | [中文版本 →](../../../zh/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/)
 
-> Ví dụ code: [code/](https://amitabhakarmakar.github.io/harness-engineering/vi/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/code)
+> Ví dụ code: [code/](https://letslego.github.io/harness-engineering/vi/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/code)
 > Dự án thực hành: [Dự án 02. Không gian làm việc Agent đọc được](./../../projects/project-02-agent-readable-workspace/)
 
 # Bài 03. Biến kho lưu trữ thành nguồn sự thật duy nhất

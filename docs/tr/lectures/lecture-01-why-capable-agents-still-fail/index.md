@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-01-why-capable-agents-still-fail/)
 
-> Kod örnekleri: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-01-why-capable-agents-still-fail/code)
+> Kod örnekleri: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-01-why-capable-agents-still-fail/code)
 > Uygulama projesi: [Proje 01. Yalnızca prompt vs. önce kurallar](./../../projects/project-01-baseline-vs-minimal-harness/)
 
 # Ders 01. Güçlü ajanlar neden hâlâ başarısız olur

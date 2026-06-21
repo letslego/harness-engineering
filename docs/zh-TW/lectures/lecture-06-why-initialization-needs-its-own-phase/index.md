@@ -1,6 +1,6 @@
 [English Version →](../../../en/lectures/lecture-06-why-initialization-needs-its-own-phase/)
 
-> 本篇程式碼示例：[code/](https://amitabhakarmakar.github.io/harness-engineering/zh-TW/lectures/lecture-06-why-initialization-needs-its-own-phase/code)
+> 本篇程式碼示例：[code/](https://letslego.github.io/harness-engineering/zh-TW/lectures/lecture-06-why-initialization-needs-its-own-phase/code)
 > 實戰練習：[Project 03. 讓代理重啟後還能繼續執行](./../../projects/project-03-multi-session-continuity/)
 
 # 第六講. 讓 agent 每次工作前先初始化

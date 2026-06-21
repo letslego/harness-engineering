@@ -1,7 +1,7 @@
 [中文版本 →](../../../zh/projects/project-01-baseline-vs-minimal-harness/)
 
 > محاضرات مرتبطة: [المحاضرة 01. النماذج القوية لا تعني تنفيذًا موثوقًا](./../../lectures/lecture-01-why-capable-agents-still-fail/) · [المحاضرة 02. ما معنى harness فعليًا](./../../lectures/lecture-02-what-a-harness-actually-is/)
-> ملفات القوالب: [templates/](https://amitabhakarmakar.github.io/harness-engineering/ar/resources/templates)
+> ملفات القوالب: [templates/](https://letslego.github.io/harness-engineering/ar/resources/templates)
 
 # المشروع 01. Prompt فقط مقابل القواعد أولًا: ما حجم الفرق؟
 
@@ -26,11 +26,11 @@ Harness بسيط: `AGENTS.md` + `init.sh` + `feature_list.json`
 
 ## استخدم المشروع المضمَّن في المستودع
 
-مسار المشروع في المستودع: [`projects/project-01/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-01)
+مسار المشروع في المستودع: [`projects/project-01/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-01)
 
 | المجلد | ماذا يحتوي | كيف تستخدمه / ماذا تقارن |
 |------|------|------|
-| [`starter/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-01/starter) | تشغيل الـ harness الضعيف. يحتوي فقط على [`task-prompt.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-01/starter/task-prompt.md) كوصف للمهمة ولا يتضمن `AGENTS.md` أو `feature_list.json`. | قدّم الـ prompt لوكيلك وقِس ما الذي ينجزه بدون أي هيكلة إضافية. |
-| [`solution/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-01/solution) | نفس جزء المنتج مع ملفات harness صريحة: [`AGENTS.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-01/solution/AGENTS.md) و[`CLAUDE.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-01/solution/CLAUDE.md) و[`init.sh`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-01/solution/init.sh) و[`feature_list.json`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-01/solution/feature_list.json) و[`claude-progress.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-01/solution/claude-progress.md). | قارن كيف تجعل القواعد والتحقق نفس المهمة قابلة للتنفيذ والقياس. |
+| [`starter/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-01/starter) | تشغيل الـ harness الضعيف. يحتوي فقط على [`task-prompt.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-01/starter/task-prompt.md) كوصف للمهمة ولا يتضمن `AGENTS.md` أو `feature_list.json`. | قدّم الـ prompt لوكيلك وقِس ما الذي ينجزه بدون أي هيكلة إضافية. |
+| [`solution/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-01/solution) | نفس جزء المنتج مع ملفات harness صريحة: [`AGENTS.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-01/solution/AGENTS.md) و[`CLAUDE.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-01/solution/CLAUDE.md) و[`init.sh`](https://github.com/letslego/harness-engineering/blob/main/projects/project-01/solution/init.sh) و[`feature_list.json`](https://github.com/letslego/harness-engineering/blob/main/projects/project-01/solution/feature_list.json) و[`claude-progress.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-01/solution/claude-progress.md). | قارن كيف تجعل القواعد والتحقق نفس المهمة قابلة للتنفيذ والقياس. |
 
 الميزات الأربع الملموسة هي: تشغيل النافذة، قائمة المستندات، لوحة الأسئلة/الأجوبة، وإنشاء مجلد البيانات المحلي. راجع `solution/feature_list.json` لمعرفة الدليل المتوقع لكل ميزة.

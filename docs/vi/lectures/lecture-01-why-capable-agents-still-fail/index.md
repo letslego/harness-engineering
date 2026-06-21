@@ -1,6 +1,6 @@
 [English Version →](../../../en/lectures/lecture-01-why-capable-agents-still-fail/) | [中文版本 →](../../../zh/lectures/lecture-01-why-capable-agents-still-fail/)
 
-> Ví dụ code: [code/](https://amitabhakarmakar.github.io/harness-engineering/vi/lectures/lecture-01-why-capable-agents-still-fail/code)
+> Ví dụ code: [code/](https://letslego.github.io/harness-engineering/vi/lectures/lecture-01-why-capable-agents-still-fail/code)
 > Dự án thực hành: [Dự án 01. Chỉ Prompt vs. Ưu tiên Quy tắc](./../../projects/project-01-baseline-vs-minimal-harness/)
 
 # Bài 01. Mô hình mạnh không có nghĩa là thực thi đáng tin cậy

@@ -1,6 +1,6 @@
 [English version →](../../../en/lectures/lecture-02-what-a-harness-actually-is/)
 
-> Kod misollari: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-02-what-a-harness-actually-is/code)
+> Kod misollari: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-02-what-a-harness-actually-is/code)
 > Amaliy loyiha: [Loyiha 01. Prompt-only vs. rules-first](./../../projects/project-01-baseline-vs-minimal-harness/)
 
 # 2-maʼruza. Harness aslida nima degani

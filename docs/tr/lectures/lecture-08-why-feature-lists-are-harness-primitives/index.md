@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-08-why-feature-lists-are-harness-primitives/)
 
-> Kod örnekleri: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-08-why-feature-lists-are-harness-primitives/code)
+> Kod örnekleri: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-08-why-feature-lists-are-harness-primitives/code)
 > Uygulama projesi: [Proje 04. Çalışma zamanı geri bildirimi ve kapsam kontrolü](./../../projects/project-04-incremental-indexing/)
 
 # Ders 08. Özellik listeleri neden harness'ın temel yapı taşı

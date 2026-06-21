@@ -1,6 +1,6 @@
 [English version →](../../../en/lectures/lecture-04-why-one-giant-instruction-file-fails/)
 
-> Kod misollari: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-04-why-one-giant-instruction-file-fails/code)
+> Kod misollari: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-04-why-one-giant-instruction-file-fails/code)
 > Amaliy loyiha: [Loyiha 02. Agent oʻqiy oladigan ish maydoni](./../../projects/project-02-agent-readable-workspace/)
 
 # 4-maʼruza. Yoʻriqnomalarni fayllar boʻylab ajrating

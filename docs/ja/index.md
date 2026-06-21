@@ -4,7 +4,7 @@ Learn Harness Engineering は、AI コーディングエージェントを工程
 - [OpenAI: Harness engineering: leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/)
 - [Anthropic: Effective harnesses for long-running agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
 - [Anthropic: Harness design for long-running application development](https://www.anthropic.com/engineering/harness-design-long-running-apps)
-- [Awesome Harness Engineering](https://amitabhakarmakar.github.io/harness-engineering)
+- [Awesome Harness Engineering](https://letslego.github.io/harness-engineering)
 
 このコースでは、環境設計、状態管理、検証、制御の仕組みを体系的に学び、Codex や Claude Code のようなエージェント型コーディングツールを本当に信頼できるものにする方法を扱います。明示的なルールと境界で AI コーディングアシスタントを制約しながら、機能追加、バグ修正、開発作業の自動化を進めるための実践的な方法を学びます。
 

@@ -1,6 +1,6 @@
 [中文版 →](../../../zh/lectures/lecture-10-why-end-to-end-testing-changes-results/)
 
-> Exemplos de código para esta aula: [code/](https://amitabhakarmakar.github.io/harness-engineering/pt-BR/lectures/lecture-10-why-end-to-end-testing-changes-results/code)
+> Exemplos de código para esta aula: [code/](https://letslego.github.io/harness-engineering/pt-BR/lectures/lecture-10-why-end-to-end-testing-changes-results/code)
 > Prática hands-on: [Projeto 05. Deixe o agente verificar o próprio trabalho](./../../projects/project-05-grounded-qa-verification/)
 
 # Aula 10. Apenas uma Execução Completa do Pipeline Conta como Verificação Real

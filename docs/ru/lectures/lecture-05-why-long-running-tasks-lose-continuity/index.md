@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-05-why-long-running-tasks-lose-continuity/)
 
-> Примеры кода: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-05-why-long-running-tasks-lose-continuity/code)
+> Примеры кода: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-05-why-long-running-tasks-lose-continuity/code)
 > Практический проект: [Project 03. Multi-session continuity](./../../projects/project-03-multi-session-continuity/)
 
 # Лекция 05. Сохраняйте контекст между сессиями

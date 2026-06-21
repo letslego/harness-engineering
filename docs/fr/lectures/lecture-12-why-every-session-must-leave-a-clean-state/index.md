@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-12-why-every-session-must-leave-a-clean-state/)
 
-> Exemples de code : [code/](https://amitabhakarmakar.github.io/harness-engineering/fr/lectures/lecture-12-why-every-session-must-leave-a-clean-state/code)
+> Exemples de code : [code/](https://letslego.github.io/harness-engineering/fr/lectures/lecture-12-why-every-session-must-leave-a-clean-state/code)
 > Projet pratique : [Project 06. Complete harness (Capstone)](./../../projects/project-06-runtime-observability-and-debugging/)
 
 # Leçon 12. Laisser un handoff propre à la fin de chaque session

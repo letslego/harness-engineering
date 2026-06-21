@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-09-why-agents-declare-victory-too-early/)
 
-> Bu ders için kod örnekleri: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-09-why-agents-declare-victory-too-early/code)
+> Bu ders için kod örnekleri: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-09-why-agents-declare-victory-too-early/code)
 > Uygulamalı pratik: [Proje 05. Ajanın kendi işini doğrulamasına izin verin](./../../projects/project-05-grounded-qa-verification/)
 
 # Ders 9. Ajanların çok erken zaferi ilan etmesini önlemek

@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-01-why-capable-agents-still-fail/)
 
-> 코드 예제: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-01-why-capable-agents-still-fail/code)
+> 코드 예제: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-01-why-capable-agents-still-fail/code)
 > 실습 프로젝트: [Project 01. Prompt-only vs. rules-first](./../../projects/project-01-baseline-vs-minimal-harness/)
 
 # 강의 01. 강력한 모델도 실행 신뢰성을 보장하지 않는다

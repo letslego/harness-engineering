@@ -1,6 +1,6 @@
 [English Version →](../../../en/lectures/lecture-07-why-agents-overreach-and-under-finish/) | [中文版本 →](../../../zh/lectures/lecture-07-why-agents-overreach-and-under-finish/)
 
-> Ví dụ code: [code/](https://amitabhakarmakar.github.io/harness-engineering/vi/lectures/lecture-07-why-agents-overreach-and-under-finish/code)
+> Ví dụ code: [code/](https://letslego.github.io/harness-engineering/vi/lectures/lecture-07-why-agents-overreach-and-under-finish/code)
 > Dự án thực hành: [Dự án 04. Phản hồi Runtime và Kiểm soát Phạm vi](./../../projects/project-04-incremental-indexing/)
 
 # Bài 07. Vạch ranh giới tác vụ rõ ràng cho agent

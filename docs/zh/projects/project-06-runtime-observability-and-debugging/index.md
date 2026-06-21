@@ -1,7 +1,7 @@
 # Project 06. 搭建一套完整的 agent 工作环境
 
 > 相关讲义：[L11. 为什么可观测性属于 harness](./../../lectures/lecture-11-why-observability-belongs-inside-the-harness/) · [L12. 为什么每次会话都要留干净状态](./../../lectures/lecture-12-why-every-session-must-leave-a-clean-state/)
-> 本篇模板文件：[templates/](https://amitabhakarmakar.github.io/harness-engineering/zh/resources/templates)
+> 本篇模板文件：[templates/](https://letslego.github.io/harness-engineering/zh/resources/templates)
 
 ## 你要做什么
 
@@ -11,12 +11,12 @@
 
 ## 使用仓库里的项目
 
-仓库路径：[`projects/project-06/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-06)
+仓库路径：[`projects/project-06/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-06)
 
 | 目录 | 里面有什么 | 比较什么 |
 |------|------|------|
-| [`starter/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-06/starter) | 大部分产品代码已经完成，但 harness 表面较弱：只有基础 [`AGENTS.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-06/starter/AGENTS.md)，没有 `feature_list.json`、`session-handoff.md`、clean-state checklist。 | 手动记录弱 harness 基线。starter 故意不包含 benchmark 脚本。 |
-| [`solution/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-06/solution) | 完整 harness：[`AGENTS.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-06/solution/AGENTS.md)、[`CLAUDE.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-06/solution/CLAUDE.md)、[`feature_list.json`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-06/solution/feature_list.json)、[`init.sh`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-06/solution/init.sh)、[`session-handoff.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-06/solution/session-handoff.md)、[`clean-state-checklist.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-06/solution/clean-state-checklist.md)、质量/评估文档、benchmark 和 cleanup 脚本。 | 运行 [`projects/project-06/solution/scripts/benchmark.sh`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-06/solution/scripts/benchmark.sh)、[`projects/project-06/solution/scripts/cleanup-scanner.sh`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-06/solution/scripts/cleanup-scanner.sh)，对比质量文档证据。 |
+| [`starter/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-06/starter) | 大部分产品代码已经完成，但 harness 表面较弱：只有基础 [`AGENTS.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-06/starter/AGENTS.md)，没有 `feature_list.json`、`session-handoff.md`、clean-state checklist。 | 手动记录弱 harness 基线。starter 故意不包含 benchmark 脚本。 |
+| [`solution/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-06/solution) | 完整 harness：[`AGENTS.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-06/solution/AGENTS.md)、[`CLAUDE.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-06/solution/CLAUDE.md)、[`feature_list.json`](https://github.com/letslego/harness-engineering/blob/main/projects/project-06/solution/feature_list.json)、[`init.sh`](https://github.com/letslego/harness-engineering/blob/main/projects/project-06/solution/init.sh)、[`session-handoff.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-06/solution/session-handoff.md)、[`clean-state-checklist.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-06/solution/clean-state-checklist.md)、质量/评估文档、benchmark 和 cleanup 脚本。 | 运行 [`projects/project-06/solution/scripts/benchmark.sh`](https://github.com/letslego/harness-engineering/blob/main/projects/project-06/solution/scripts/benchmark.sh)、[`projects/project-06/solution/scripts/cleanup-scanner.sh`](https://github.com/letslego/harness-engineering/blob/main/projects/project-06/solution/scripts/cleanup-scanner.sh)，对比质量文档证据。 |
 
 和前几个项目不同，capstone starter 不是缺很多产品功能；主要缺口是应用周围的操作 harness。
 

@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-04-why-one-giant-instruction-file-fails/)
 
-> Примеры кода: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-04-why-one-giant-instruction-file-fails/code)
+> Примеры кода: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-04-why-one-giant-instruction-file-fails/code)
 > Практический проект: [Project 02. Agent-readable workspace](./../../projects/project-02-agent-readable-workspace/)
 
 # Лекция 04. Разносите инструкции по файлам

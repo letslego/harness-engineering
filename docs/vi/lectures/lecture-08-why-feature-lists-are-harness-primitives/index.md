@@ -1,6 +1,6 @@
 [English Version →](../../../en/lectures/lecture-08-why-feature-lists-are-harness-primitives/) | [中文版本 →](../../../zh/lectures/lecture-08-why-feature-lists-are-harness-primitives/)
 
-> Ví dụ code: [code/](https://amitabhakarmakar.github.io/harness-engineering/vi/lectures/lecture-08-why-feature-lists-are-harness-primitives/code)
+> Ví dụ code: [code/](https://letslego.github.io/harness-engineering/vi/lectures/lecture-08-why-feature-lists-are-harness-primitives/code)
 > Dự án thực hành: [Dự án 04. Phản hồi Runtime và Kiểm soát Phạm vi](./../../projects/project-04-incremental-indexing/)
 
 # Bài 08. Sử dụng feature list để ràng buộc những gì agent làm

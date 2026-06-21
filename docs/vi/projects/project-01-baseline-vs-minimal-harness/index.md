@@ -1,7 +1,7 @@
 [English Version →](../../../en/projects/project-01-baseline-vs-minimal-harness/) | [中文版本 →](../../../zh/projects/project-01-baseline-vs-minimal-harness/)
 
 > Bài giảng liên quan: [Bài 01. Mô hình mạnh không có nghĩa là thực thi đáng tin cậy](./../../lectures/lecture-01-why-capable-agents-still-fail/) · [Bài 02. Harness thực sự có nghĩa là gì](./../../lectures/lecture-02-what-a-harness-actually-is/)
-> Tệp mẫu: [templates/](https://amitabhakarmakar.github.io/harness-engineering/vi/resources/templates)
+> Tệp mẫu: [templates/](https://letslego.github.io/harness-engineering/vi/resources/templates)
 
 # Dự án 01. Chỉ Prompt vs. Ưu tiên Quy tắc: Sự Khác biệt Lớn thế Nào
 
@@ -26,11 +26,11 @@ Harness tối giản: `AGENTS.md` + `init.sh` + `feature_list.json`
 
 ## Dùng project đã có sẵn trong repo
 
-Đường dẫn trong repo: [`projects/project-01/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-01)
+Đường dẫn trong repo: [`projects/project-01/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-01)
 
 | Thư mục | Có gì bên trong | Cách dùng / so sánh |
 |------|------|------|
-| [`starter/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-01/starter) | Lượt chạy harness yếu. Chỉ có [`task-prompt.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-01/starter/task-prompt.md) làm mô tả nhiệm vụ, không có `AGENTS.md` hay `feature_list.json`. | Đưa prompt cho agent và đo xem nó hoàn thành được gì khi không có cấu trúc bổ sung. |
-| [`solution/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-01/solution) | Cùng slice sản phẩm nhưng có artefact harness rõ ràng: [`AGENTS.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-01/solution/AGENTS.md), [`CLAUDE.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-01/solution/CLAUDE.md), [`init.sh`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-01/solution/init.sh), [`feature_list.json`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-01/solution/feature_list.json), [`claude-progress.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-01/solution/claude-progress.md). | So sánh cách quy tắc và kiểm chứng biến cùng nhiệm vụ thành thứ có thể chạy và kiểm tra được. |
+| [`starter/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-01/starter) | Lượt chạy harness yếu. Chỉ có [`task-prompt.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-01/starter/task-prompt.md) làm mô tả nhiệm vụ, không có `AGENTS.md` hay `feature_list.json`. | Đưa prompt cho agent và đo xem nó hoàn thành được gì khi không có cấu trúc bổ sung. |
+| [`solution/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-01/solution) | Cùng slice sản phẩm nhưng có artefact harness rõ ràng: [`AGENTS.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-01/solution/AGENTS.md), [`CLAUDE.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-01/solution/CLAUDE.md), [`init.sh`](https://github.com/letslego/harness-engineering/blob/main/projects/project-01/solution/init.sh), [`feature_list.json`](https://github.com/letslego/harness-engineering/blob/main/projects/project-01/solution/feature_list.json), [`claude-progress.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-01/solution/claude-progress.md). | So sánh cách quy tắc và kiểm chứng biến cùng nhiệm vụ thành thứ có thể chạy và kiểm tra được. |
 
 Bốn tính năng cụ thể là: mở cửa sổ, danh sách tài liệu, panel câu hỏi, và tạo thư mục dữ liệu cục bộ. Xem `solution/feature_list.json` để biết bằng chứng mong đợi cho từng tính năng.

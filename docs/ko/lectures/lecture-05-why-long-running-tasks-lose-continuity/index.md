@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-05-why-long-running-tasks-lose-continuity/)
 
-> 코드 예제: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-05-why-long-running-tasks-lose-continuity/code)
+> 코드 예제: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-05-why-long-running-tasks-lose-continuity/code)
 > 실습 프로젝트: [Project 03. 멀티 세션 연속성](./../../projects/project-03-multi-session-continuity/)
 
 # 강의 05. 세션을 넘어 컨텍스트를 살아있게 유지하라

@@ -15,7 +15,7 @@
 
 ### 快速开始
 
-技能文件位于仓库的 [`skills/harness-creator/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/skills/harness-creator) 目录。
+技能文件位于仓库的 [`skills/harness-creator/`](https://github.com/letslego/harness-engineering/tree/main/skills/harness-creator) 目录。
 
 ```bash
 npx skills add amitabhakarmakar/harness-engineering --skill harness-creator

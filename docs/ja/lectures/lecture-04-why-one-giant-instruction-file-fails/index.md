@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-04-why-one-giant-instruction-file-fails/)
 
-> コード例: [code/](https://amitabhakarmakar.github.io/harness-engineering/ja/lectures/lecture-04-why-one-giant-instruction-file-fails/code)
+> コード例: [code/](https://letslego.github.io/harness-engineering/ja/lectures/lecture-04-why-one-giant-instruction-file-fails/code)
 > 実践プロジェクト: [プロジェクト 02. エージェントが読めるワークスペース](./../../projects/project-02-agent-readable-workspace/)
 
 # 講義 04. 指示を複数ファイルに分割する

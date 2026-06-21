@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-11-why-observability-belongs-inside-the-harness/)
 
-> コード例: [code/](https://amitabhakarmakar.github.io/harness-engineering/ja/lectures/lecture-11-why-observability-belongs-inside-the-harness/code)
+> コード例: [code/](https://letslego.github.io/harness-engineering/ja/lectures/lecture-11-why-observability-belongs-inside-the-harness/code)
 > 実践プロジェクト: [プロジェクト 06. 完全な harness（総合課題）](./../../projects/project-06-runtime-observability-and-debugging/)
 
 # 講義 11. エージェントのランタイムを観測可能にする

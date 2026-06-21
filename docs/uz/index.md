@@ -5,7 +5,7 @@ Learn Harness Engineering — sunʼiy intellektga asoslangan kod yozuvchi agentl
 - [OpenAI: Harness engineering — agent ustuvor dunyoda Codexdan foydalanish](https://openai.com/index/harness-engineering/)
 - [Anthropic: Uzoq ishlovchi agentlar uchun samarali harnessʼlar](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
 - [Anthropic: Uzoq muddatli ilova ishlab chiqish uchun harness dizayni](https://www.anthropic.com/engineering/harness-design-long-running-apps)
-- [Awesome Harness Engineering](https://amitabhakarmakar.github.io/harness-engineering)
+- [Awesome Harness Engineering](https://letslego.github.io/harness-engineering)
 
 Tizimli muhit dizayni, holat boshqaruvi, tekshiruv va nazorat tizimlari orqali ushbu kurs sizga Codex va Claude Code kabi agentik kod yozish vositalarini haqiqatan ham ishonchli qilishni oʻrgatadi. AI yordamchingizni aniq qoidalar va chegaralar bilan boshqarib, yangi funksiyalar qoʻshish, xatolarni tuzatish va dasturlash vazifalarini avtomatlashtirishga yordam beradi.
 

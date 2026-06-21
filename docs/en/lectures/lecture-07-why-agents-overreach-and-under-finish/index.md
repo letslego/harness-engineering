@@ -1,6 +1,6 @@
 [中文版 →](../../../zh/lectures/lecture-07-why-agents-overreach-and-under-finish/)
 
-> Code examples: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-07-why-agents-overreach-and-under-finish/code)
+> Code examples: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-07-why-agents-overreach-and-under-finish/code)
 > Practice project: [Project 04. Use runtime feedback to correct agent behavior](./../../projects/project-04-incremental-indexing/)
 
 # Lecture 07. Draw Clear Task Boundaries for Agents

@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-04-why-one-giant-instruction-file-fails/)
 
-> 코드 예제: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-04-why-one-giant-instruction-file-fails/code)
+> 코드 예제: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-04-why-one-giant-instruction-file-fails/code)
 > 실습 프로젝트: [Project 02. 에이전트가 읽을 수 있는 작업 공간](./../../projects/project-02-agent-readable-workspace/)
 
 # 강의 04. 명령 파일을 여러 파일로 분산하라

@@ -1,6 +1,6 @@
 [中文版 →](../../../zh/lectures/lecture-09-why-agents-declare-victory-too-early/)
 
-> Exemplos de código para esta aula: [code/](https://amitabhakarmakar.github.io/harness-engineering/pt-BR/lectures/lecture-09-why-agents-declare-victory-too-early/code)
+> Exemplos de código para esta aula: [code/](https://letslego.github.io/harness-engineering/pt-BR/lectures/lecture-09-why-agents-declare-victory-too-early/code)
 > Prática guiada: [Projeto 05. Permita que o agente verifique o próprio trabalho](./../../projects/project-05-grounded-qa-verification/)
 
 # Aula 09. Como Impedir que Agentes Declarem Vitória Cedo Demais

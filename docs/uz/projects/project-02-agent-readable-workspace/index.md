@@ -1,7 +1,7 @@
 [English version →](../../../en/projects/project-02-agent-readable-workspace/)
 
 > Tegishli maʼruzalar: [3-maʼruza. Repozitoriyni yagona haqiqat manbaiga aylantiring](./../../lectures/lecture-03-why-the-repository-must-become-the-system-of-record/) · [4-maʼruza. Yoʻriqnomalarni fayllar boʻylab ajrating](./../../lectures/lecture-04-why-one-giant-instruction-file-fails/)
-> Andoza fayllari: [templates/](https://amitabhakarmakar.github.io/harness-engineering/en/resources/templates)
+> Andoza fayllari: [templates/](https://letslego.github.io/harness-engineering/en/resources/templates)
 
 # Loyiha 02. Loyihani oʻqishga qulay qiling va toʻxtagan joyidan davom ettiring
 
@@ -13,12 +13,12 @@ Siz buni ikki marta bajarasiz: birinchisi hech qanday yordamsiz, ikkinchisi repo
 
 ## Repodagi tayyor loyihadan foydalaning
 
-Repo yoʻli: [`projects/project-02/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-02)
+Repo yoʻli: [`projects/project-02/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-02)
 
 | Katalog | Nimalar bor | Nimani taqqoslash |
 |------|------|------|
-| [`starter/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-02/starter) | Project 01 kodi, lekin hujjat importi, detail view va persistence hali toʻliq emas. Hujjatlar bor, ammo qisqaroq; `session-handoff.md` yoʻq. | Ikkinchi agent sessiyasi qancha kontekstni qayta topishi kerak. |
-| [`solution/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-02/solution) | Xuddi shu mahsulot kesimi tugallangan; handoff hujjatlari [`projects/project-02/solution/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-02/solution) ostida, shuningdek [`feature_list.json`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-02/solution/feature_list.json) va [`session-handoff.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-02/solution/session-handoff.md) bor. | Yangi sessiya faqat repo holatidan davom eta oladimi. |
+| [`starter/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-02/starter) | Project 01 kodi, lekin hujjat importi, detail view va persistence hali toʻliq emas. Hujjatlar bor, ammo qisqaroq; `session-handoff.md` yoʻq. | Ikkinchi agent sessiyasi qancha kontekstni qayta topishi kerak. |
+| [`solution/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-02/solution) | Xuddi shu mahsulot kesimi tugallangan; handoff hujjatlari [`projects/project-02/solution/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-02/solution) ostida, shuningdek [`feature_list.json`](https://github.com/letslego/harness-engineering/blob/main/projects/project-02/solution/feature_list.json) va [`session-handoff.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-02/solution/session-handoff.md) bor. | Yangi sessiya faqat repo holatidan davom eta oladimi. |
 
 ## Vositalar
 

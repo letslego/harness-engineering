@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-12-why-every-session-must-leave-a-clean-state/)
 
-> Примеры кода: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-12-why-every-session-must-leave-a-clean-state/code)
+> Примеры кода: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-12-why-every-session-must-leave-a-clean-state/code)
 > Практический проект: [Проект 06. Полноценный harness (Capstone)](./../../projects/project-06-runtime-observability-and-debugging/)
 
 # Лекция 12. Чистая передача в конце каждой сессии

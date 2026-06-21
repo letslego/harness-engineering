@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-02-what-a-harness-actually-is/)
 
-> Exemples de code : [code/](https://amitabhakarmakar.github.io/harness-engineering/fr/lectures/lecture-02-what-a-harness-actually-is/code)
+> Exemples de code : [code/](https://letslego.github.io/harness-engineering/fr/lectures/lecture-02-what-a-harness-actually-is/code)
 > Projet pratique : [Project 01. Prompt-only vs. rules-first](./../../projects/project-01-baseline-vs-minimal-harness/)
 
 # Leçon 02. Ce que signifie vraiment harness

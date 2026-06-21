@@ -1,7 +1,7 @@
 [中文版本 →](../../../zh/projects/project-02-agent-readable-workspace/)
 
 > Related lectures: [Lecture 03. Make the repository your single source of truth](./../../lectures/lecture-03-why-the-repository-must-become-the-system-of-record/) · [Lecture 04. Split instructions across files](./../../lectures/lecture-04-why-one-giant-instruction-file-fails/)
-> Template files: [templates/](https://amitabhakarmakar.github.io/harness-engineering/en/resources/templates)
+> Template files: [templates/](https://letslego.github.io/harness-engineering/en/resources/templates)
 
 # Project 02. Make the Project Readable and Pick Up Where You Left Off
 
@@ -25,12 +25,12 @@ Agent-readable workspace + persistent state files
 
 ## Use the Checked-In Project
 
-Repository path: [`projects/project-02/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-02)
+Repository path: [`projects/project-02/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-02)
 
 | Directory | What it contains | What to compare |
 |------|------|------|
-| [`starter/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-02/starter) | Project 01 code plus incomplete document import, detail view, and persistence. The docs exist but are intentionally thinner, and there is no `session-handoff.md`. | How much rediscovery a second agent session does. |
-| [`solution/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-02/solution) | The same slice completed, with expanded docs under [`projects/project-02/solution/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-02/solution) (plus [`feature_list.json`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-02/solution/feature_list.json) and [`session-handoff.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-02/solution/session-handoff.md)). | Whether a fresh session can resume from repo state without oral context. |
+| [`starter/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-02/starter) | Project 01 code plus incomplete document import, detail view, and persistence. The docs exist but are intentionally thinner, and there is no `session-handoff.md`. | How much rediscovery a second agent session does. |
+| [`solution/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-02/solution) | The same slice completed, with expanded docs under [`projects/project-02/solution/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-02/solution) (plus [`feature_list.json`](https://github.com/letslego/harness-engineering/blob/main/projects/project-02/solution/feature_list.json) and [`session-handoff.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-02/solution/session-handoff.md)). | Whether a fresh session can resume from repo state without oral context. |
 
 The product features are document import, full document detail/content loading,
 and persistence across restart. The harness feature is the handoff-readable

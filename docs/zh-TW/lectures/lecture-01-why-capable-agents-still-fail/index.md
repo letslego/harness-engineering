@@ -1,6 +1,6 @@
 [English Version →](../../../en/lectures/lecture-01-why-capable-agents-still-fail/)
 
-> 本篇程式碼示例：[code/](https://amitabhakarmakar.github.io/harness-engineering/zh-TW/lectures/lecture-01-why-capable-agents-still-fail/code)
+> 本篇程式碼示例：[code/](https://letslego.github.io/harness-engineering/zh-TW/lectures/lecture-01-why-capable-agents-still-fail/code)
 > 實戰練習：[Project 01. 只寫提示詞讓代理做，和定好規則再讓它做，差多少](./../../projects/project-01-baseline-vs-minimal-harness/)
 
 # 第一講. 模型能力強，不等於執行可靠

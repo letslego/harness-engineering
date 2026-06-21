@@ -15,7 +15,7 @@ AI 코딩 에이전트를 위한 프로덕션(production) 등급의 하네스 �
 
 ### 빠른 시작 (Quick Start)
 
-스킬 파일은 저장소의 [`skills/harness-creator/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/skills/harness-creator)에 위치합니다.
+스킬 파일은 저장소의 [`skills/harness-creator/`](https://github.com/letslego/harness-engineering/tree/main/skills/harness-creator)에 위치합니다.
 
 ```bash
 npx skills add amitabhakarmakar/harness-engineering --skill harness-creator

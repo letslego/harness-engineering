@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-01-why-capable-agents-still-fail/)
 
-> أمثلة الكود: [code/](https://amitabhakarmakar.github.io/harness-engineering/ar/lectures/lecture-01-why-capable-agents-still-fail/code)
+> أمثلة الكود: [code/](https://letslego.github.io/harness-engineering/ar/lectures/lecture-01-why-capable-agents-still-fail/code)
 > مشروع عملي: [المشروع 01. الاعتماد على المطالبة فقط مقابل القواعد أولًا](./../../projects/project-01-baseline-vs-minimal-harness/)
 
 # المحاضرة 01. النماذج القوية لا تعني تنفيذًا موثوقًا

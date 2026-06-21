@@ -1,6 +1,6 @@
 [English Version →](../../../en/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/)
 
-> 本篇程式碼示例：[code/](https://amitabhakarmakar.github.io/harness-engineering/zh-TW/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/code)
+> 本篇程式碼示例：[code/](https://letslego.github.io/harness-engineering/zh-TW/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/code)
 > 實戰練習：[Project 02. 讓代理看懂專案、銜接上次的工作](./../../projects/project-02-agent-readable-workspace/)
 
 # 第三講. 讓程式碼儲存庫成為唯一的事實來源

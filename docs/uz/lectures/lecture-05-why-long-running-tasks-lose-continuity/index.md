@@ -1,6 +1,6 @@
 [English version →](../../../en/lectures/lecture-05-why-long-running-tasks-lose-continuity/)
 
-> Kod misollari: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-05-why-long-running-tasks-lose-continuity/code)
+> Kod misollari: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-05-why-long-running-tasks-lose-continuity/code)
 > Amaliy loyiha: [Loyiha 03. Koʻp sessiyali uzluksizlik](./../../projects/project-03-multi-session-continuity/)
 
 # 5-maʼruza. Sessiyalar oʻrtasida kontekstni saqlab qoling

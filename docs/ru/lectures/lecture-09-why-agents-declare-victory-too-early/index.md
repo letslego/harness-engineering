@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-09-why-agents-declare-victory-too-early/)
 
-> Примеры кода: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-09-why-agents-declare-victory-too-early/code)
+> Примеры кода: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-09-why-agents-declare-victory-too-early/code)
 > Практический проект: [Project 05. Let the agent verify its own work](./../../projects/project-05-grounded-qa-verification/)
 
 # Лекция 09. Предотвращение преждевременных заявлений о завершении

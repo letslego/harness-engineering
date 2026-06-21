@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/)
 
-> أمثلة الكود: [code/](https://amitabhakarmakar.github.io/harness-engineering/ar/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/code)
+> أمثلة الكود: [code/](https://letslego.github.io/harness-engineering/ar/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/code)
 > مشروع عملي: [المشروع 02. مساحة عمل قابلة للقراءة بواسطة الوكلاء](./../../projects/project-02-agent-readable-workspace/)
 
 # المحاضرة 03. اجعل المستودع مصدر الحقيقة الوحيد

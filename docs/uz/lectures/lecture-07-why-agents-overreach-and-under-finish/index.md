@@ -1,6 +1,6 @@
 [English version →](../../../en/lectures/lecture-07-why-agents-overreach-and-under-finish/)
 
-> Kod misollari: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-07-why-agents-overreach-and-under-finish/code)
+> Kod misollari: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-07-why-agents-overreach-and-under-finish/code)
 > Amaliy loyiha: [Loyiha 04. Runtime qayta aloqa va skoup nazorati](./../../projects/project-04-incremental-indexing/)
 
 # 7-maʼruza. Agentlar uchun aniq vazifa chegaralarini chizing

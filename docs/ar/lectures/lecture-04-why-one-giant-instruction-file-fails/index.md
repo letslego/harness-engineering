@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-04-why-one-giant-instruction-file-fails/)
 
-> أمثلة الكود: [code/](https://amitabhakarmakar.github.io/harness-engineering/ar/lectures/lecture-04-why-one-giant-instruction-file-fails/code)
+> أمثلة الكود: [code/](https://letslego.github.io/harness-engineering/ar/lectures/lecture-04-why-one-giant-instruction-file-fails/code)
 > مشروع عملي: [المشروع 02. مساحة عمل قابلة للقراءة بواسطة الوكلاء](./../../projects/project-02-agent-readable-workspace/)
 
 # المحاضرة 04. قسّم التعليمات عبر ملفات

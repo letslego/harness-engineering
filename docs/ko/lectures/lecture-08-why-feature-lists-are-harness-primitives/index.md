@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-08-why-feature-lists-are-harness-primitives/)
 
-> 코드 예제: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-08-why-feature-lists-are-harness-primitives/code)
+> 코드 예제: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-08-why-feature-lists-are-harness-primitives/code)
 > 실습 프로젝트: [프로젝트 04. 런타임 피드백과 범위 제어](./../../projects/project-04-incremental-indexing/)
 
 # 강의 08. 기능 목록으로 에이전트의 행동을 제약하십시오

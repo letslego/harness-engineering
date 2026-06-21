@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-06-why-initialization-needs-its-own-phase/)
 
-> Примеры кода: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-06-why-initialization-needs-its-own-phase/code)
+> Примеры кода: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-06-why-initialization-needs-its-own-phase/code)
 > Практический проект: [Project 03. Multi-session continuity](./../../projects/project-03-multi-session-continuity/)
 
 # Лекция 06. Инициализируйте проект перед каждой сессией агента

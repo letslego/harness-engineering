@@ -1,6 +1,6 @@
 [中文版 →](../../../zh/lectures/lecture-12-why-every-session-must-leave-a-clean-state/)
 
-> Code examples: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-12-why-every-session-must-leave-a-clean-state/code)
+> Code examples: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-12-why-every-session-must-leave-a-clean-state/code)
 > Practice project: [Project 06. Build a Complete Agent Workspace](./../../projects/project-06-runtime-observability-and-debugging/)
 
 # Lecture 12. Leave a Clean Handoff at the End of Every Session

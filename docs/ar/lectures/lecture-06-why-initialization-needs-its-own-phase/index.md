@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-06-why-initialization-needs-its-own-phase/)
 
-> أمثلة الكود: [code/](https://amitabhakarmakar.github.io/harness-engineering/ar/lectures/lecture-06-why-initialization-needs-its-own-phase/code)
+> أمثلة الكود: [code/](https://letslego.github.io/harness-engineering/ar/lectures/lecture-06-why-initialization-needs-its-own-phase/code)
 > مشروع عملي: [Project 03. Multi-session continuity](./../../projects/project-03-multi-session-continuity/)
 
 # المحاضرة 06. هيئ قبل كل جلسة وكيل

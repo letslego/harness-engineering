@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-01-why-capable-agents-still-fail/)
 
-> Ejemplos de código: [code/](https://amitabhakarmakar.github.io/harness-engineering/es/lectures/lecture-01-why-capable-agents-still-fail/code)
+> Ejemplos de código: [code/](https://letslego.github.io/harness-engineering/es/lectures/lecture-01-why-capable-agents-still-fail/code)
 > Proyecto práctico: [Proyecto 01. Solo prompt vs reglas primero](./../../projects/project-01-baseline-vs-minimal-harness/)
 
 # Lección 01. Los modelos fuertes no significan ejecución fiable

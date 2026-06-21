@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-01-why-capable-agents-still-fail/)
 
-> Примеры кода: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-01-why-capable-agents-still-fail/code)
+> Примеры кода: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-01-why-capable-agents-still-fail/code)
 > Практический проект: [Project 01. Prompt-only vs. rules-first](./../../projects/project-01-baseline-vs-minimal-harness/)
 
 # Лекция 01. Сильные модели не означают надёжного исполнения

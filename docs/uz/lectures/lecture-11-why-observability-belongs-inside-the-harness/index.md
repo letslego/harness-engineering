@@ -1,6 +1,6 @@
 [English version →](../../../en/lectures/lecture-11-why-observability-belongs-inside-the-harness/)
 
-> Ushbu maʼruza uchun kod misollari: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-11-why-observability-belongs-inside-the-harness/code)
+> Ushbu maʼruza uchun kod misollari: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-11-why-observability-belongs-inside-the-harness/code)
 > Amaliy loyiha: [Loyiha 06. Toʻliq harness (Capstone)](./../../projects/project-06-runtime-observability-and-debugging/)
 
 # 11-maʼruza. Agent runtimeʼini kuzatuvchan qiling

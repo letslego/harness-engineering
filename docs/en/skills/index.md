@@ -15,7 +15,7 @@ A production-grade harness engineering skill for AI coding agents. It helps you 
 
 ### Quick Start
 
-The skill files live in the repository at [`skills/harness-creator/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/skills/harness-creator).
+The skill files live in the repository at [`skills/harness-creator/`](https://github.com/letslego/harness-engineering/tree/main/skills/harness-creator).
 
 ```bash
 npx skills add amitabhakarmakar/harness-engineering --skill harness-creator

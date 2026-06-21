@@ -15,7 +15,7 @@ Production-grade скил по harness-инжинирингу для AI-аген
 
 ### Быстрый старт
 
-Файлы скила лежат в репозитории по пути [`skills/harness-creator/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/skills/harness-creator).
+Файлы скила лежат в репозитории по пути [`skills/harness-creator/`](https://github.com/letslego/harness-engineering/tree/main/skills/harness-creator).
 
 ```bash
 npx skills add amitabhakarmakar/harness-engineering --skill harness-creator

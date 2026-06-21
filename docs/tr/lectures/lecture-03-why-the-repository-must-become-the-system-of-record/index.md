@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/)
 
-> Kod örnekleri: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/code)
+> Kod örnekleri: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/code)
 > Uygulama projesi: [Proje 02. Ajanın okuyabildiği çalışma alanı](./../../projects/project-02-agent-readable-workspace/)
 
 # Ders 03. Depo neden kayıt sistemi olmalı

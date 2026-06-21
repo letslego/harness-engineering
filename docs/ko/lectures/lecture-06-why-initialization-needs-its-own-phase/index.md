@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-06-why-initialization-needs-its-own-phase/)
 
-> 코드 예제: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-06-why-initialization-needs-its-own-phase/code)
+> 코드 예제: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-06-why-initialization-needs-its-own-phase/code)
 > 실습 프로젝트: [Project 03. 멀티 세션 연속성](./../../projects/project-03-multi-session-continuity/)
 
 # 강의 06. 모든 에이전트 세션 전에 초기화하라

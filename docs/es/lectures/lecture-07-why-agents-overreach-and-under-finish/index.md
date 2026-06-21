@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-07-why-agents-overreach-and-under-finish/)
 
-> Ejemplos de código: [code/](https://amitabhakarmakar.github.io/harness-engineering/es/lectures/lecture-07-why-agents-overreach-and-under-finish/code)
+> Ejemplos de código: [code/](https://letslego.github.io/harness-engineering/es/lectures/lecture-07-why-agents-overreach-and-under-finish/code)
 > Proyecto práctico: [Project 04. Runtime feedback and scope control](./../../projects/project-04-incremental-indexing/)
 
 # Lección 07. Define límites claros para las tareas del agente

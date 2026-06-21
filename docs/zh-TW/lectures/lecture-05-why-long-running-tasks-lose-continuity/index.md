@@ -1,6 +1,6 @@
 [English Version →](../../../en/lectures/lecture-05-why-long-running-tasks-lose-continuity/)
 
-> 本篇程式碼示例：[code/](https://amitabhakarmakar.github.io/harness-engineering/zh-TW/lectures/lecture-05-why-long-running-tasks-lose-continuity/code)
+> 本篇程式碼示例：[code/](https://letslego.github.io/harness-engineering/zh-TW/lectures/lecture-05-why-long-running-tasks-lose-continuity/code)
 > 實戰練習：[Project 03. 讓代理重啟後還能繼續執行](./../../projects/project-03-multi-session-continuity/)
 
 # 第五講. 讓跨工作階段的任務保持脈絡連續

@@ -1,6 +1,6 @@
 [English version →](../../../en/lectures/lecture-01-why-capable-agents-still-fail/)
 
-> Kod misollar: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-01-why-capable-agents-still-fail/code)
+> Kod misollar: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-01-why-capable-agents-still-fail/code)
 > Amaliy loyiha: [01-loyiha. Faqat prompt vs. qoidalar ustuvor](./../../projects/project-01-baseline-vs-minimal-harness/)
 
 # 01-maʼruza. Kuchli model — ishonchli bajarilish degani emas

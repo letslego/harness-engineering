@@ -15,7 +15,7 @@ Một kỹ năng xây dựng harness cấp độ thực tế (production-grade) 
 
 ### Bắt đầu Nhanh
 
-Các tệp kỹ năng nằm trong kho lưu trữ tại [`skills/harness-creator/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/skills/harness-creator).
+Các tệp kỹ năng nằm trong kho lưu trữ tại [`skills/harness-creator/`](https://github.com/letslego/harness-engineering/tree/main/skills/harness-creator).
 
 ```bash
 npx skills add amitabhakarmakar/harness-engineering --skill harness-creator

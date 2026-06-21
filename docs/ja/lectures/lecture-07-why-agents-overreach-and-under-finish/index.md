@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-07-why-agents-overreach-and-under-finish/)
 
-> コード例: [code/](https://amitabhakarmakar.github.io/harness-engineering/ja/lectures/lecture-07-why-agents-overreach-and-under-finish/code)
+> コード例: [code/](https://letslego.github.io/harness-engineering/ja/lectures/lecture-07-why-agents-overreach-and-under-finish/code)
 > 実践プロジェクト: [Project 04. Runtime feedback and scope control](./../../projects/project-04-incremental-indexing/)
 
 # 講義 07. エージェントのタスク境界を明確にする

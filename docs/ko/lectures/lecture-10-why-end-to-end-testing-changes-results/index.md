@@ -1,6 +1,6 @@
 [English Version →](../../../en/lectures/lecture-10-why-end-to-end-testing-changes-results/)
 
-> 이 강의의 코드 예제: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-10-why-end-to-end-testing-changes-results/code)
+> 이 강의의 코드 예제: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-10-why-end-to-end-testing-changes-results/code)
 > 실습 프로젝트: [Project 05. 에이전트가 자신의 작업을 스스로 검증하게 하기](./../../projects/project-05-grounded-qa-verification/)
 
 # 강의 10. 엔드투엔드 테스트(end-to-end testing)만이 진정한 검증이다

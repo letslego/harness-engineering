@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-08-why-feature-lists-are-harness-primitives/)
 
-> コード例: [code/](https://amitabhakarmakar.github.io/harness-engineering/ja/lectures/lecture-08-why-feature-lists-are-harness-primitives/code)
+> コード例: [code/](https://letslego.github.io/harness-engineering/ja/lectures/lecture-08-why-feature-lists-are-harness-primitives/code)
 > 実践プロジェクト: [プロジェクト 04. 実行時フィードバックとスコープ制御](./../../projects/project-04-incremental-indexing/)
 
 # 講義 08. 機能リストでエージェントの作業を制約する

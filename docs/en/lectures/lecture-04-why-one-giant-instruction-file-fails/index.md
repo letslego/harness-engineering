@@ -1,6 +1,6 @@
 [中文版 →](../../../zh/lectures/lecture-04-why-one-giant-instruction-file-fails/)
 
-> Code examples: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-04-why-one-giant-instruction-file-fails/code)
+> Code examples: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-04-why-one-giant-instruction-file-fails/code)
 > Practice project: [Project 02. Agent-readable workspace](./../../projects/project-02-agent-readable-workspace/)
 
 # Lecture 04. Split Instructions Across Files

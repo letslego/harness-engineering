@@ -1,7 +1,7 @@
 [中文版本 →](../../../zh/projects/project-06-runtime-observability-and-debugging/)
 
 > Zugehörige Lektionen: [Lektion 11. Die Runtime des Agenten beobachtbar machen](./../../lectures/lecture-11-why-observability-belongs-inside-the-harness/) · [Lektion 12. Sauberes Handoff am Ende jeder Session](./../../lectures/lecture-12-why-every-session-must-leave-a-clean-state/)
-> Vorlagendateien: [templates/](https://amitabhakarmakar.github.io/harness-engineering/de/resources/templates)
+> Vorlagendateien: [templates/](https://letslego.github.io/harness-engineering/de/resources/templates)
 
 # Projekt 06. Einen vollständigen Agenten-harness bauen (Capstone)
 
@@ -13,12 +13,12 @@ Nutze ein festes Multi-Feature-Aufgabenset, das einen vollständigen Produktschn
 
 ## Nutze das eingecheckte Projekt
 
-Repository-Pfad: [`projects/project-06/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-06)
+Repository-Pfad: [`projects/project-06/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-06)
 
 | Verzeichnis | Inhalt | Vergleichspunkt |
 |------|------|------|
-| [`starter/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-06/starter) | Produktcode ist weitgehend vollständig, aber die Harness-Oberfläche ist absichtlich geschwächt: nur grundlegendes [`AGENTS.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-06/starter/AGENTS.md), kein `feature_list.json`, kein `session-handoff.md`, keine Clean-State-Checkliste und keine Benchmark/Cleanup-Skripte. | Manuelle Baseline-Beobachtungen mit schwachem Harness. |
-| [`solution/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-06/solution) | Vollständiger Harness: [`AGENTS.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-06/solution/AGENTS.md), [`CLAUDE.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-06/solution/CLAUDE.md), [`feature_list.json`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-06/solution/feature_list.json), [`init.sh`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-06/solution/init.sh), [`session-handoff.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-06/solution/session-handoff.md), [`clean-state-checklist.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-06/solution/clean-state-checklist.md), Qualitäts-/Evaluator-Dokumente und Skripte. | [`projects/project-06/solution/scripts/benchmark.sh`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-06/solution/scripts/benchmark.sh) und [`projects/project-06/solution/scripts/cleanup-scanner.sh`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-06/solution/scripts/cleanup-scanner.sh) ausführen und Qualitätsevidenz vergleichen. |
+| [`starter/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-06/starter) | Produktcode ist weitgehend vollständig, aber die Harness-Oberfläche ist absichtlich geschwächt: nur grundlegendes [`AGENTS.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-06/starter/AGENTS.md), kein `feature_list.json`, kein `session-handoff.md`, keine Clean-State-Checkliste und keine Benchmark/Cleanup-Skripte. | Manuelle Baseline-Beobachtungen mit schwachem Harness. |
+| [`solution/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-06/solution) | Vollständiger Harness: [`AGENTS.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-06/solution/AGENTS.md), [`CLAUDE.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-06/solution/CLAUDE.md), [`feature_list.json`](https://github.com/letslego/harness-engineering/blob/main/projects/project-06/solution/feature_list.json), [`init.sh`](https://github.com/letslego/harness-engineering/blob/main/projects/project-06/solution/init.sh), [`session-handoff.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-06/solution/session-handoff.md), [`clean-state-checklist.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-06/solution/clean-state-checklist.md), Qualitäts-/Evaluator-Dokumente und Skripte. | [`projects/project-06/solution/scripts/benchmark.sh`](https://github.com/letslego/harness-engineering/blob/main/projects/project-06/solution/scripts/benchmark.sh) und [`projects/project-06/solution/scripts/cleanup-scanner.sh`](https://github.com/letslego/harness-engineering/blob/main/projects/project-06/solution/scripts/cleanup-scanner.sh) ausführen und Qualitätsevidenz vergleichen. |
 
 ## Werkzeuge
 

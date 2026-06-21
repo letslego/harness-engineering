@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-10-why-end-to-end-testing-changes-results/)
 
-> Bu ders için kod örnekleri: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-10-why-end-to-end-testing-changes-results/code)
+> Bu ders için kod örnekleri: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-10-why-end-to-end-testing-changes-results/code)
 > Uygulamalı pratik: [Proje 05. Ajanın kendi işini doğrulamasına izin verin](./../../projects/project-05-grounded-qa-verification/)
 
 # Ders 10. Uçtan uca test sonuçları neden değiştirir

@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-10-why-end-to-end-testing-changes-results/)
 
-> Code examples for this lecture: [code/](https://amitabhakarmakar.github.io/harness-engineering/ar/lectures/lecture-10-why-end-to-end-testing-changes-results/code)
+> Code examples for this lecture: [code/](https://letslego.github.io/harness-engineering/ar/lectures/lecture-10-why-end-to-end-testing-changes-results/code)
 > Hands-on practice: [Project 05. Let the agent verify its own work](./../../projects/project-05-grounded-qa-verification/)
 
 # المحاضرة 10. الاختبار end-to-end هو التحقق الحقيقي

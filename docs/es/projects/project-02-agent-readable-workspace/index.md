@@ -1,7 +1,7 @@
 [中文版本 →](../../../zh/projects/project-02-agent-readable-workspace/)
 
 > Lecciones relacionadas: [Lección 03. Convierte el repositorio en tu única fuente de verdad](./../../lectures/lecture-03-why-the-repository-must-become-the-system-of-record/) · [Lección 04. Divide las instrucciones en varios archivos](./../../lectures/lecture-04-why-one-giant-instruction-file-fails/)
-> Archivos de plantilla: [templates/](https://amitabhakarmakar.github.io/harness-engineering/es/resources/templates)
+> Archivos de plantilla: [templates/](https://letslego.github.io/harness-engineering/es/resources/templates)
 
 # Proyecto 02. Haz el proyecto legible y retoma el trabajo donde lo dejaste
 
@@ -13,12 +13,12 @@ Lo ejecutarás dos veces: primero sin ayuda, y después con `ARCHITECTURE.md`, `
 
 ## Usa el proyecto incluido
 
-Ruta en el repositorio: [`projects/project-02/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-02)
+Ruta en el repositorio: [`projects/project-02/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-02)
 
 | Directorio | Qué contiene | Qué comparar |
 |------|------|------|
-| [`starter/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-02/starter) | Código de Project 01 con importación, vista de detalle y persistencia todavía incompletas. La documentación existe, pero es más ligera y no hay `session-handoff.md`. | Cuánto contexto tiene que redescubrir una segunda sesión del agente. |
-| [`solution/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-02/solution) | La misma porción de producto ya completada, con documentación de handoff bajo [`projects/project-02/solution/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-02/solution), además de [`feature_list.json`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-02/solution/feature_list.json) y [`session-handoff.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-02/solution/session-handoff.md). | Si una sesión nueva puede continuar solo desde el estado del repositorio. |
+| [`starter/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-02/starter) | Código de Project 01 con importación, vista de detalle y persistencia todavía incompletas. La documentación existe, pero es más ligera y no hay `session-handoff.md`. | Cuánto contexto tiene que redescubrir una segunda sesión del agente. |
+| [`solution/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-02/solution) | La misma porción de producto ya completada, con documentación de handoff bajo [`projects/project-02/solution/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-02/solution), además de [`feature_list.json`](https://github.com/letslego/harness-engineering/blob/main/projects/project-02/solution/feature_list.json) y [`session-handoff.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-02/solution/session-handoff.md). | Si una sesión nueva puede continuar solo desde el estado del repositorio. |
 
 Las funciones de producto son importación de documentos, carga completa del detalle/contenido y persistencia tras reiniciar. La función de harness es un workspace legible y fácil de retomar.
 

@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-05-why-long-running-tasks-lose-continuity/)
 
-> Exemples de code : [code/](https://amitabhakarmakar.github.io/harness-engineering/fr/lectures/lecture-05-why-long-running-tasks-lose-continuity/code)
+> Exemples de code : [code/](https://letslego.github.io/harness-engineering/fr/lectures/lecture-05-why-long-running-tasks-lose-continuity/code)
 > Projet pratique : [Project 03. Multi-session continuity](./../../projects/project-03-multi-session-continuity/)
 
 # Leçon 05. Garder le contexte vivant entre les sessions

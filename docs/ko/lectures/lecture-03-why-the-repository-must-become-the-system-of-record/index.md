@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/)
 
-> 코드 예제: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/code)
+> 코드 예제: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/code)
 > 실습 프로젝트: [Project 02. Agent-readable workspace](./../../projects/project-02-agent-readable-workspace/)
 
 # 강의 03. 저장소를 단일 진실 원천으로 만들어라

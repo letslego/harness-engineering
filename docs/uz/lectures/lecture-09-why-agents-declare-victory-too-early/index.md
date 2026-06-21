@@ -1,6 +1,6 @@
 [English version →](../../../en/lectures/lecture-09-why-agents-declare-victory-too-early/)
 
-> Ushbu maʼruza uchun kod misollari: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-09-why-agents-declare-victory-too-early/code)
+> Ushbu maʼruza uchun kod misollari: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-09-why-agents-declare-victory-too-early/code)
 > Amaliy loyiha: [Loyiha 05. Agentga oʻz ishini oʻzi tekshirishiga imkon bering](./../../projects/project-05-grounded-qa-verification/)
 
 # 9-maʼruza. Agentlarni vaqtidan oldin gʻalabani eʼlon qilishdan saqlash

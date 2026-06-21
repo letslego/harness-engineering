@@ -15,7 +15,7 @@ Un skill de harness engineering de nivel producción para agentes de programaci�
 
 ### Inicio rápido
 
-Los archivos del skill están en el repositorio en [`skills/harness-creator/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/skills/harness-creator).
+Los archivos del skill están en el repositorio en [`skills/harness-creator/`](https://github.com/letslego/harness-engineering/tree/main/skills/harness-creator).
 
 ```bash
 npx skills add amitabhakarmakar/harness-engineering --skill harness-creator

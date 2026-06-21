@@ -1,6 +1,6 @@
 [English Version →](../../../en/lectures/lecture-12-why-every-session-must-leave-a-clean-state/)
 
-> 本篇代码示例：[code/](https://amitabhakarmakar.github.io/harness-engineering/zh/lectures/lecture-12-why-every-session-must-leave-a-clean-state/code)
+> 本篇代码示例：[code/](https://letslego.github.io/harness-engineering/zh/lectures/lecture-12-why-every-session-must-leave-a-clean-state/code)
 > 实战练习：[Project 06. 搭建一套完整的 agent 工作环境](./../../projects/project-06-runtime-observability-and-debugging/)
 
 # 第十二讲. 每次会话结束前都做好交接

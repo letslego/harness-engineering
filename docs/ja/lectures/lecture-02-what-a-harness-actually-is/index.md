@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-02-what-a-harness-actually-is/)
 
-> コード例: [code/](https://amitabhakarmakar.github.io/harness-engineering/ja/lectures/lecture-02-what-a-harness-actually-is/code)
+> コード例: [code/](https://letslego.github.io/harness-engineering/ja/lectures/lecture-02-what-a-harness-actually-is/code)
 > 実践プロジェクト: [Project 01. Prompt-only vs. rules-first](./../../projects/project-01-baseline-vs-minimal-harness/)
 
 # 講義 02. Harness とは何か

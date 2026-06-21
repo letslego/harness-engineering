@@ -1,6 +1,6 @@
 [中文版 →](../../../zh/lectures/lecture-01-why-capable-agents-still-fail/)
 
-> Code examples: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-01-why-capable-agents-still-fail/code)
+> Code examples: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-01-why-capable-agents-still-fail/code)
 > Practice project: [Project 01. Prompt-Only vs. Rules-First: How Much Difference Does a Harness Make](./../../projects/project-01-baseline-vs-minimal-harness/)
 
 # Lecture 01. Strong Models Don't Mean Reliable Execution

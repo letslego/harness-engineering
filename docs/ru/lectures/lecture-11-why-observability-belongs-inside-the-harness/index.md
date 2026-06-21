@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-11-why-observability-belongs-inside-the-harness/)
 
-> Примеры кода: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-11-why-observability-belongs-inside-the-harness/code)
+> Примеры кода: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-11-why-observability-belongs-inside-the-harness/code)
 > Практический проект: [Проект 06. Полноценный harness (Capstone)](./../../projects/project-06-runtime-observability-and-debugging/)
 
 # Лекция 11. Сделайте рантайм агента наблюдаемым

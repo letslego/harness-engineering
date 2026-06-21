@@ -1,6 +1,6 @@
 [English Version →](../../../en/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/)
 
-> 本篇代码示例：[code/](https://amitabhakarmakar.github.io/harness-engineering/zh/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/code)
+> 本篇代码示例：[code/](https://letslego.github.io/harness-engineering/zh/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/code)
 > 实战练习：[Project 02. 让 agent 看懂项目、接住上次的工作](./../../projects/project-02-agent-readable-workspace/)
 
 # 第三讲. 让代码仓库成为唯一的事实来源

@@ -1,7 +1,7 @@
 [中文版本 →](../../../zh/projects/project-01-baseline-vs-minimal-harness/)
 
 > Aulas relacionadas: [Aula 01. Modelos robustos não garantem execução confiável.](./../../lectures/lecture-01-why-capable-agents-still-fail/) · [Aula 02. O que significa, de fato, arnês.](./../../lectures/lecture-02-what-a-harness-actually-is/)
-> Arquivos de template: [templates/](https://amitabhakarmakar.github.io/harness-engineering/en/resources/templates)
+> Arquivos de template: [templates/](https://letslego.github.io/harness-engineering/en/resources/templates)
 
 # Projeto 01. Apenas Prompt vs. Regras Primeiro: Quanta Diferença Isso Faz
 
@@ -26,11 +26,11 @@ Harness mínimo: `AGENTS.md` + `init.sh` + `feature_list.json`
 
 ## Utilize o Projeto Versionado
 
-Caminho do repositório: [`projects/project-01/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-01)
+Caminho do repositório: [`projects/project-01/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-01)
 
 | Diretório | O que contém | Como utilizar |
 |------|------|------|
-| [`starter/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-01/starter) | A execução com harness fraco. Contém apenas [`task-prompt.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-01/starter/task-prompt.md) como descrição da tarefa e não possui `AGENTS.md` nem `feature_list.json`. | Entregue o prompt ao seu agente de programação e meça o que ele consegue concluir sem estrutura adicional. |
-| [`solution/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-01/solution) | O mesmo recorte de produto com artefatos explícitos de harness: [`AGENTS.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-01/solution/AGENTS.md), [`CLAUDE.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-01/solution/CLAUDE.md), [`init.sh`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-01/solution/init.sh), [`feature_list.json`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-01/solution/feature_list.json) e [`claude-progress.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-01/solution/claude-progress.md). | Compare como a mesma tarefa se torna concreta através de regras e evidências de verificação. |
+| [`starter/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-01/starter) | A execução com harness fraco. Contém apenas [`task-prompt.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-01/starter/task-prompt.md) como descrição da tarefa e não possui `AGENTS.md` nem `feature_list.json`. | Entregue o prompt ao seu agente de programação e meça o que ele consegue concluir sem estrutura adicional. |
+| [`solution/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-01/solution) | O mesmo recorte de produto com artefatos explícitos de harness: [`AGENTS.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-01/solution/AGENTS.md), [`CLAUDE.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-01/solution/CLAUDE.md), [`init.sh`](https://github.com/letslego/harness-engineering/blob/main/projects/project-01/solution/init.sh), [`feature_list.json`](https://github.com/letslego/harness-engineering/blob/main/projects/project-01/solution/feature_list.json) e [`claude-progress.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-01/solution/claude-progress.md). | Compare como a mesma tarefa se torna concreta através de regras e evidências de verificação. |
 
 As quatro funcionalidades concretas são: abertura da janela, lista de documentos, painel de perguntas e respostas, e criação do diretório local de dados. Inspecione `solution/feature_list.json` para entender as evidências esperadas para cada funcionalidade.

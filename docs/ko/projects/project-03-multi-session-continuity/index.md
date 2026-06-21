@@ -1,7 +1,7 @@
 [English Version →](../../../en/projects/project-03-multi-session-continuity/)
 
 > 관련 강의: [강의 05. 세션 간에 컨텍스트를 유지하기](./../../lectures/lecture-05-why-long-running-tasks-lose-continuity/) · [강의 06. 모든 에이전트 세션 전에 초기화하기](./../../lectures/lecture-06-why-initialization-needs-its-own-phase/)
-> 템플릿 파일: [templates/](https://amitabhakarmakar.github.io/harness-engineering/en/resources/templates)
+> 템플릿 파일: [templates/](https://letslego.github.io/harness-engineering/en/resources/templates)
 
 # 프로젝트 03. 세션 재시작 후에도 에이전트가 계속 작업하도록 만들기
 
@@ -15,12 +15,12 @@
 
 ## 저장소에 포함된 프로젝트 사용하기
 
-저장소 경로: [`projects/project-03/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-03)
+저장소 경로: [`projects/project-03/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-03)
 
 | 디렉터리 | 내용 | 비교할 것 |
 |------|------|------|
-| [`starter/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-03/starter) | Project 02 코드에서 indexing과 citation 기반 Q&A가 아직 미완성입니다. 초기 [`feature_list.json`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-03/starter/feature_list.json)은 있지만 최종 handoff/restart 산출물은 없습니다. | 여러 기능 사이에서 에이전트가 drift하거나 재시작 후 상태를 잃는지. |
-| [`solution/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-03/solution) | chunking, metadata, index status, citation-based QA가 완성되어 있고 [`init.sh`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-03/solution/init.sh), [`session-handoff.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-03/solution/session-handoff.md), [`claude-progress.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-03/solution/claude-progress.md), [`clean-state-checklist.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-03/solution/clean-state-checklist.md)가 있습니다. | 각 기능이 pass로 표시되기 전에 구체적 검증 증거가 있는지. |
+| [`starter/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-03/starter) | Project 02 코드에서 indexing과 citation 기반 Q&A가 아직 미완성입니다. 초기 [`feature_list.json`](https://github.com/letslego/harness-engineering/blob/main/projects/project-03/starter/feature_list.json)은 있지만 최종 handoff/restart 산출물은 없습니다. | 여러 기능 사이에서 에이전트가 drift하거나 재시작 후 상태를 잃는지. |
+| [`solution/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-03/solution) | chunking, metadata, index status, citation-based QA가 완성되어 있고 [`init.sh`](https://github.com/letslego/harness-engineering/blob/main/projects/project-03/solution/init.sh), [`session-handoff.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-03/solution/session-handoff.md), [`claude-progress.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-03/solution/claude-progress.md), [`clean-state-checklist.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-03/solution/clean-state-checklist.md)가 있습니다. | 각 기능이 pass로 표시되기 전에 구체적 검증 증거가 있는지. |
 
 ## 도구
 

@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-12-why-every-session-must-leave-a-clean-state/)
 
-> コード例: [code/](https://amitabhakarmakar.github.io/harness-engineering/ja/lectures/lecture-12-why-every-session-must-leave-a-clean-state/code)
+> コード例: [code/](https://letslego.github.io/harness-engineering/ja/lectures/lecture-12-why-every-session-must-leave-a-clean-state/code)
 > 実践プロジェクト: [Project 06. Complete harness (Capstone)](./../../projects/project-06-runtime-observability-and-debugging/)
 
 # 講義 12. すべてのセッションをきれいな引き継ぎで終える

@@ -1,6 +1,6 @@
 [English Version →](../../../en/lectures/lecture-05-why-long-running-tasks-lose-continuity/)
 
-> 本篇代码示例：[code/](https://amitabhakarmakar.github.io/harness-engineering/zh/lectures/lecture-05-why-long-running-tasks-lose-continuity/code)
+> 本篇代码示例：[code/](https://letslego.github.io/harness-engineering/zh/lectures/lecture-05-why-long-running-tasks-lose-continuity/code)
 > 实战练习：[Project 03. 让 agent 关掉再打开还能接着干](./../../projects/project-03-multi-session-continuity/)
 
 # 第五讲. 让跨会话的任务保持上下文连续

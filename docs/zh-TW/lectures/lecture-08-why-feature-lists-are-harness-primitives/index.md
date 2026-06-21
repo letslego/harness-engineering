@@ -1,6 +1,6 @@
 [English Version →](../../../en/lectures/lecture-08-why-feature-lists-are-harness-primitives/)
 
-> 本篇程式碼示例：[code/](https://amitabhakarmakar.github.io/harness-engineering/zh-TW/lectures/lecture-08-why-feature-lists-are-harness-primitives/code)
+> 本篇程式碼示例：[code/](https://letslego.github.io/harness-engineering/zh-TW/lectures/lecture-08-why-feature-lists-are-harness-primitives/code)
 > 實戰練習：[Project 04. 用執行回饋修正代理的行為](./../../projects/project-04-incremental-indexing/)
 
 # 第八講. 用功能清單約束 agent 該做什麼

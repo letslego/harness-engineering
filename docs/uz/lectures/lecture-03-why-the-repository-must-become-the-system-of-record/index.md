@@ -1,6 +1,6 @@
 [English version →](../../../en/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/)
 
-> Kod misollari: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/code)
+> Kod misollari: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/code)
 > Amaliy loyiha: [Loyiha 02. Agent oʻqiy oladigan ish maydoni](./../../projects/project-02-agent-readable-workspace/)
 
 # 3-maʼruza. Repozitoriyni yagona haqiqat manbaiga aylantiring

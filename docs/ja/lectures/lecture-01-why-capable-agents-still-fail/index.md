@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-01-why-capable-agents-still-fail/)
 
-> コード例: [code/](https://amitabhakarmakar.github.io/harness-engineering/ja/lectures/lecture-01-why-capable-agents-still-fail/code)
+> コード例: [code/](https://letslego.github.io/harness-engineering/ja/lectures/lecture-01-why-capable-agents-still-fail/code)
 > 実践プロジェクト: [プロジェクト 01. プロンプトのみ vs ルール優先](./../../projects/project-01-baseline-vs-minimal-harness/)
 
 # 講義 01. 強いモデルは信頼できる実行を意味しない

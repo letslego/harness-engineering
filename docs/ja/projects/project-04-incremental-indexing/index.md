@@ -1,7 +1,7 @@
 [中文版本 →](../../../zh/projects/project-04-incremental-indexing/)
 
 > 関連講義: [講義 07. エージェントのタスク境界を明確に引く](./../../lectures/lecture-07-why-agents-overreach-and-under-finish/) · [講義 08. 機能リストでエージェントの作業を制約する](./../../lectures/lecture-08-why-feature-lists-are-harness-primitives/)
-> テンプレートファイル: [templates/](https://amitabhakarmakar.github.io/harness-engineering/ja/resources/templates)
+> テンプレートファイル: [templates/](https://letslego.github.io/harness-engineering/ja/resources/templates)
 
 # プロジェクト 04. ランタイムフィードバックでエージェントの挙動を修正する
 
@@ -13,14 +13,14 @@
 
 ## リポジトリ内のプロジェクトを使う
 
-リポジトリ内のパス: [`projects/project-04/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-04)
+リポジトリ内のパス: [`projects/project-04/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-04)
 
 | ディレクトリ | 含まれるもの | 比較すること |
 |------|------|------|
-| [`starter/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-04/starter) | Project 03 のコードで診断シグナルが弱い状態です。仕込まれた indexing 欠陥により大きなファイルの chunking が壊れる可能性があり、architecture check script もありません。 | runtime シグナルなしで根本原因にたどり着く時間。 |
-| [`solution/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-04/solution) | structured logger、architecture boundary docs/script、修正済み chunking logic、[`clean-state-checklist.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-04/solution/clean-state-checklist.md) があります。 | logs と boundary checks が修正を速く、影響範囲を小さくするか。 |
+| [`starter/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-04/starter) | Project 03 のコードで診断シグナルが弱い状態です。仕込まれた indexing 欠陥により大きなファイルの chunking が壊れる可能性があり、architecture check script もありません。 | runtime シグナルなしで根本原因にたどり着く時間。 |
+| [`solution/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-04/solution) | structured logger、architecture boundary docs/script、修正済み chunking logic、[`clean-state-checklist.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-04/solution/clean-state-checklist.md) があります。 | logs と boundary checks が修正を速く、影響範囲を小さくするか。 |
 
-確認するファイル: [`projects/project-04/solution/src/services/logger.ts`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-04/solution/src/services/logger.ts), [`projects/project-04/solution/scripts/check-architecture.sh`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-04/solution/scripts/check-architecture.sh), [`projects/project-04/solution/docs/ARCHITECTURE.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-04/solution/docs/ARCHITECTURE.md), [`projects/project-04/solution/src/services/indexing-service.ts`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-04/solution/src/services/indexing-service.ts).
+確認するファイル: [`projects/project-04/solution/src/services/logger.ts`](https://github.com/letslego/harness-engineering/blob/main/projects/project-04/solution/src/services/logger.ts), [`projects/project-04/solution/scripts/check-architecture.sh`](https://github.com/letslego/harness-engineering/blob/main/projects/project-04/solution/scripts/check-architecture.sh), [`projects/project-04/solution/docs/ARCHITECTURE.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-04/solution/docs/ARCHITECTURE.md), [`projects/project-04/solution/src/services/indexing-service.ts`](https://github.com/letslego/harness-engineering/blob/main/projects/project-04/solution/src/services/indexing-service.ts).
 
 ## ツール
 

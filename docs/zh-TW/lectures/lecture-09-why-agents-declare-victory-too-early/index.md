@@ -1,6 +1,6 @@
 [English Version →](../../../en/lectures/lecture-09-why-agents-declare-victory-too-early/)
 
-> 本篇程式碼示例：[code/](https://amitabhakarmakar.github.io/harness-engineering/zh-TW/lectures/lecture-09-why-agents-declare-victory-too-early/code)
+> 本篇程式碼示例：[code/](https://letslego.github.io/harness-engineering/zh-TW/lectures/lecture-09-why-agents-declare-victory-too-early/code)
 > 實戰練習：[Project 05. 讓代理自己檢查自己做得對不對](./../../projects/project-05-grounded-qa-verification/)
 
 # 第九講. 防止 agent 提前宣告完成

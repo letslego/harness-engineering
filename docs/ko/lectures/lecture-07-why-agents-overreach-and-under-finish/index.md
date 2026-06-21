@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-07-why-agents-overreach-and-under-finish/)
 
-> 코드 예제: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-07-why-agents-overreach-and-under-finish/code)
+> 코드 예제: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-07-why-agents-overreach-and-under-finish/code)
 > 실습 프로젝트: [프로젝트 04. 런타임 피드백과 범위(scope) 제어](./../../projects/project-04-incremental-indexing/)
 
 # 강의 07. 에이전트에게 명확한 작업 경계를 그어 주어야 합니다

@@ -15,7 +15,7 @@ Yapay zeka kod yazma ajanları için üretim seviyesinde bir harness mühendisli
 
 ### Hızlı başlangıç
 
-Yetenek dosyaları depoda şu adreste yer alır: [`skills/harness-creator/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/skills/harness-creator).
+Yetenek dosyaları depoda şu adreste yer alır: [`skills/harness-creator/`](https://github.com/letslego/harness-engineering/tree/main/skills/harness-creator).
 
 ```bash
 npx skills add amitabhakarmakar/harness-engineering --skill harness-creator

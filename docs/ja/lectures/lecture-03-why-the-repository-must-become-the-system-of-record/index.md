@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/)
 
-> コード例: [code/](https://amitabhakarmakar.github.io/harness-engineering/ja/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/code)
+> コード例: [code/](https://letslego.github.io/harness-engineering/ja/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/code)
 > 実践プロジェクト: [プロジェクト 02. エージェントが読めるワークスペース](./../../projects/project-02-agent-readable-workspace/)
 
 # 講義 03. リポジトリを唯一の信頼できる情報源にする

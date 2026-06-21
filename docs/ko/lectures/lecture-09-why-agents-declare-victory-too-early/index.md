@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-09-why-agents-declare-victory-too-early/)
 
-> 이 강의의 코드 예제: [code/](https://amitabhakarmakar.github.io/harness-engineering/en/lectures/lecture-09-why-agents-declare-victory-too-early/code)
+> 이 강의의 코드 예제: [code/](https://letslego.github.io/harness-engineering/en/lectures/lecture-09-why-agents-declare-victory-too-early/code)
 > 실습 프로젝트: [프로젝트 05. 에이전트가 자신의 작업을 스스로 검증하게 하기](./../../projects/project-05-grounded-qa-verification/)
 
 # 강의 9. 에이전트가 너무 일찍 완료를 선언하지 못하도록 방지하기

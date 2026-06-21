@@ -1,6 +1,6 @@
 [English Version →](../../../en/lectures/lecture-02-what-a-harness-actually-is/) | [中文版本 →](../../../zh/lectures/lecture-02-what-a-harness-actually-is/)
 
-> Ví dụ code: [code/](https://amitabhakarmakar.github.io/harness-engineering/vi/lectures/lecture-02-what-a-harness-actually-is/code)
+> Ví dụ code: [code/](https://letslego.github.io/harness-engineering/vi/lectures/lecture-02-what-a-harness-actually-is/code)
 > Dự án thực hành: [Dự án 01. Chỉ Prompt vs. Ưu tiên Quy tắc](./../../projects/project-01-baseline-vs-minimal-harness/)
 
 # Bài 02. Harness thực sự có nghĩa là gì

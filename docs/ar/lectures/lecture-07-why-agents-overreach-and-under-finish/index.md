@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-07-why-agents-overreach-and-under-finish/)
 
-> أمثلة الكود: [code/](https://amitabhakarmakar.github.io/harness-engineering/ar/lectures/lecture-07-why-agents-overreach-and-under-finish/code)
+> أمثلة الكود: [code/](https://letslego.github.io/harness-engineering/ar/lectures/lecture-07-why-agents-overreach-and-under-finish/code)
 > مشروع عملي: [Project 04. Runtime feedback and scope control](./../../projects/project-04-incremental-indexing/)
 
 # المحاضرة 07. ارسم حدود مهمة واضحة للوكلاء

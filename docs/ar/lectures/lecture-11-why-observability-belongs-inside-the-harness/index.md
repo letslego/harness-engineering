@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-11-why-observability-belongs-inside-the-harness/)
 
-> أمثلة الكود: [code/](https://amitabhakarmakar.github.io/harness-engineering/ar/lectures/lecture-11-why-observability-belongs-inside-the-harness/code)
+> أمثلة الكود: [code/](https://letslego.github.io/harness-engineering/ar/lectures/lecture-11-why-observability-belongs-inside-the-harness/code)
 > مشروع عملي: [المشروع 06. Harness كامل (Capstone)](./../../projects/project-06-runtime-observability-and-debugging/)
 
 # المحاضرة 11. اجعل runtime الوكيل قابلًا للملاحظة

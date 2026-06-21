@@ -1,6 +1,6 @@
 [中文版本 →](../../../zh/lectures/lecture-11-why-observability-belongs-inside-the-harness/)
 
-> Ejemplos de código: [code/](https://amitabhakarmakar.github.io/harness-engineering/es/lectures/lecture-11-why-observability-belongs-inside-the-harness/code)
+> Ejemplos de código: [code/](https://letslego.github.io/harness-engineering/es/lectures/lecture-11-why-observability-belongs-inside-the-harness/code)
 > Proyecto práctico: [Proyecto 06. Harness completo (capstone)](./../../projects/project-06-runtime-observability-and-debugging/)
 
 # Lección 11. Haz observable el runtime del agente

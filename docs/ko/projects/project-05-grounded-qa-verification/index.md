@@ -1,7 +1,7 @@
 [English Version →](../../../en/projects/project-05-grounded-qa-verification/)
 
 > 관련 강의: [강의 09. 에이전트가 섣불리 완료를 선언하지 않도록 막기](./../../lectures/lecture-09-why-agents-declare-victory-too-early/) · [강의 10. 완전한 파이프라인 실행만이 진정한 검증으로 인정됩니다](./../../lectures/lecture-10-why-end-to-end-testing-changes-results/)
-> 템플릿 파일: [templates/](https://amitabhakarmakar.github.io/harness-engineering/en/resources/templates)
+> 템플릿 파일: [templates/](https://letslego.github.io/harness-engineering/en/resources/templates)
 
 # 프로젝트 05. 에이전트가 자신의 작업을 검증하도록 만들기
 
@@ -15,14 +15,14 @@
 
 ## 저장소에 포함된 프로젝트 사용하기
 
-저장소 경로: [`projects/project-05/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-05)
+저장소 경로: [`projects/project-05/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-05)
 
 | 디렉터리 | 내용 | 비교할 것 |
 |------|------|------|
-| [`starter/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-05/starter) | Project 04 기반 앱이며 대화 기록 업그레이드 전 상태입니다. | 세 변형을 다시 실행할 때의 시작점. |
-| [`solution/single-role/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-05/solution/single-role) | 한 에이전트가 계획, 구현, 자기 평가를 모두 수행합니다. | [`evaluator-rubric.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-05/solution/single-role/evaluator-rubric.md)의 점수와 결함. |
-| [`solution/gen-eval/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-05/solution/gen-eval) | generator + evaluator 구조이며 수정 증거가 있습니다. | [`evaluator-rubric.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-05/solution/gen-eval/evaluator-rubric.md)의 점수와 revision notes. |
-| [`solution/plan-gen-eval/`](https://github.com/amitabhakarmakar/harness-engineering/tree/main/projects/project-05/solution/plan-gen-eval) | planner + generator + evaluator와 sprint contract가 있습니다. | [`sprint-contract.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/sprint-contract.md)와 [`evaluator-rubric.md`](https://github.com/amitabhakarmakar/harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/evaluator-rubric.md)의 높은 평가 증거. |
+| [`starter/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-05/starter) | Project 04 기반 앱이며 대화 기록 업그레이드 전 상태입니다. | 세 변형을 다시 실행할 때의 시작점. |
+| [`solution/single-role/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-05/solution/single-role) | 한 에이전트가 계획, 구현, 자기 평가를 모두 수행합니다. | [`evaluator-rubric.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-05/solution/single-role/evaluator-rubric.md)의 점수와 결함. |
+| [`solution/gen-eval/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-05/solution/gen-eval) | generator + evaluator 구조이며 수정 증거가 있습니다. | [`evaluator-rubric.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-05/solution/gen-eval/evaluator-rubric.md)의 점수와 revision notes. |
+| [`solution/plan-gen-eval/`](https://github.com/letslego/harness-engineering/tree/main/projects/project-05/solution/plan-gen-eval) | planner + generator + evaluator와 sprint contract가 있습니다. | [`sprint-contract.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/sprint-contract.md)와 [`evaluator-rubric.md`](https://github.com/letslego/harness-engineering/blob/main/projects/project-05/solution/plan-gen-eval/evaluator-rubric.md)의 높은 평가 증거. |
 
 ## 도구
 

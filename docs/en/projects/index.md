@@ -4,7 +4,7 @@ This is the hands-on section of Learn Harness Engineering. Reading the lectures 
 
 ## Project Overview
 
-This course features 6 progressive, hands-on projects that teach you how to build a reliable agentic working environment from scratch:
+This course features 7 progressive, hands-on projects that teach you how to build a reliable agentic working environment from scratch:
 
 1. **Prompt-Only vs. Rules-First**: Compare how an agent performs with just a prompt versus a basic harness.
 2. **Agent-Readable Workspace**: Learn how to structure your repository to make it AI-friendly and establish handoff mechanisms.
@@ -12,6 +12,7 @@ This course features 6 progressive, hands-on projects that teach you how to buil
 4. **Runtime Feedback and Scope Control**: Introduce tools that allow the agent to test its own code and correct errors during execution.
 5. **Self-Verification and Role Separation**: Build an independent review mechanism to prevent hallucinations and early declarations of victory.
 6. **Complete Harness (Capstone)**: Assemble a final, observable, end-to-end agent working environment.
+7. **Omnigent-Inspired Meta-Harness**: Build a multi-harness orchestration layer with shared policy gates and execution history.
 
 ## How to Proceed
 

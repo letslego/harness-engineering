@@ -21,7 +21,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Lectures-12-blue?style=flat-square" alt="12 Lectures">
-  <img src="https://img.shields.io/badge/Projects-6-green?style=flat-square" alt="6 Projects">
+  <img src="https://img.shields.io/badge/Projects-7-green?style=flat-square" alt="7 Projects">
   <img src="https://img.shields.io/badge/Languages-14-yellow?style=flat-square" alt="14 Languages">
   <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square" alt="MIT License">
 </p>
@@ -534,9 +534,9 @@ learn-harness-engineering/
 │   ├── lectures/                  # 12 lectures (index.md + code/ examples)
 │   │   ├── lecture-01-*/
 │   │   └── ... (12 total)
-│   ├── projects/                  # 6 project descriptions
+│   ├── projects/                  # 7 project descriptions
 │   │   ├── project-01-*/
-│   │   └── ... (6 total)
+│   │   └── ... (7 total)
 │   └── resources/                 # Multilingual templates & references (14 languages)
 │       ├── en/
 │       └── ... (14 total)
@@ -554,7 +554,7 @@ learn-harness-engineering/
 ## How the Course Is Organized
 
 - Each lecture focuses on one question
-- The course includes 6 projects
+- The course includes 7 projects
 - Every project requires the agent to do real work
 - Every project compares weak vs. strong harness results
 - What matters is the measured difference, not how many docs were written

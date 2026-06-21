@@ -5,10 +5,8 @@ import { withMermaid } from "vitepress-plugin-mermaid";
 const docsBase = process.env.DOCS_BASE_PATH || "/harness-engineering/";
 const brandLogo = 'data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="9" stroke="%231f6feb" stroke-width="1.8"/><path d="M8 8v8M16 8v8M8 12h8" stroke="%231f6feb" stroke-width="1.8" stroke-linecap="round"/></svg>';
 const githubRepoTreeLink = "https://github.com/letslego/harness-engineering/tree/main";
-const discordInviteLink = "https://discord.gg/XU7DQmpqk";
 const socialLinks = [
-  { icon: "github", link: githubRepoTreeLink },
-  { icon: "discord", link: discordInviteLink }
+  { icon: "github", link: githubRepoTreeLink }
 ] as const;
 
 const zhLectureItems = [

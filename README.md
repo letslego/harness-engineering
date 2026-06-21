@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/Projects-6-green?style=flat-square" alt="6 Projects">
   <img src="https://img.shields.io/badge/Languages-14-yellow?style=flat-square" alt="14 Languages">
   <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square" alt="MIT License">
-  <a href="https://discord.gg/XU7DQmpqk"><img src="https://img.shields.io/badge/Discord-Join_Community-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Join the Discord community"></a>
 </p>
 
 > 🌍 This course is available in **14 languages**: English, 简体中文, 繁體中文, 日本語, 한국어, Español, Français, Русский, Deutsch, العربية, Tiếng Việt, Oʻzbekcha, Türkçe, Portuguese (BR). Choose your language from the badges above.

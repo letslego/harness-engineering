@@ -1,7 +1,7 @@
 [project]
 name = "multi-harness-solution"
 version = "0.1.0"
-description = "Omnigent-inspired multi-harness orchestration reference."
+description = "Parallel-agent-harness-inspired multi-harness orchestration reference."
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = []

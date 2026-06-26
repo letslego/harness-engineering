@@ -1,8 +1,9 @@
-# Project 07: Omnigent-Inspired Multi-Harness Orchestration
+# Project 07: Parallel-Agent Harness Orchestration
 
-This project introduces a meta-harness pattern inspired by [Omnigent](https://github.com/omnigent-ai/omnigent): one control
-plane coordinating multiple coding harness adapters with shared policy checks and
-consistent execution logs.
+This project introduces a meta-harness pattern aligned with the published
+[parallel-agent-harness](https://github.com/letslego/parallel-agent-harness):
+one control plane coordinating multiple coding harness adapters with shared policy
+checks and consistent execution logs.
 
 ## Directory Guide
 
@@ -17,6 +18,13 @@ consistent execution logs.
 - Route one task across multiple harnesses with shared contracts.
 - Enforce allow/deny policy checks before adapter execution.
 - Keep deterministic, inspectable execution records for each run.
+
+## Why Parallel-Agent Harnesses Matter
+
+- They increase throughput by running compatible work in parallel.
+- They reduce regressions by applying one policy layer across all adapters.
+- They improve reliability by making execution history comparable across agents.
+- They reduce lock-in by decoupling orchestration from any single harness runtime.
 
 ## How to Use
 

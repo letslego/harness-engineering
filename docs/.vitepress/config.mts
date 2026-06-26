@@ -70,7 +70,7 @@ const enProjectItems = [
   { text: "Runtime Feedback and Scope Control", link: "/en/projects/project-04-incremental-indexing/" },
   { text: "Self-Verification and Role Separation", link: "/en/projects/project-05-grounded-qa-verification/" },
   { text: "Complete Harness (Capstone)", link: "/en/projects/project-06-runtime-observability-and-debugging/" },
-  { text: "Omnigent-Inspired Meta-Harness", link: "/en/projects/project-07-omnigent-inspired-orchestration/" }
+  { text: "Parallel-Agent Harness", link: "/en/projects/project-07-omnigent-inspired-orchestration/" }
 ];
 
 const enResourceItems = [

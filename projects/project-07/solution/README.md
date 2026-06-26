@@ -1,7 +1,12 @@
 # Solution: Multi-Harness Orchestrator
 
-This implementation is inspired by Omnigent's meta-harness model while using
+This implementation is inspired by modern meta-harness patterns while using
 new project-specific code and simplified local adapters.
+
+It also mirrors the core operational goals of the published
+[parallel-agent-harness](https://github.com/letslego/parallel-agent-harness):
+parallelizable adapter execution, centralized policy control, and shared
+observability.
 
 ## Architecture
 

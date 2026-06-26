@@ -12,7 +12,7 @@ This course features 7 progressive, hands-on projects that teach you how to buil
 4. **Runtime Feedback and Scope Control**: Introduce tools that allow the agent to test its own code and correct errors during execution.
 5. **Self-Verification and Role Separation**: Build an independent review mechanism to prevent hallucinations and early declarations of victory.
 6. **Complete Harness (Capstone)**: Assemble a final, observable, end-to-end agent working environment.
-7. **Omnigent-Inspired Meta-Harness**: Build a multi-harness orchestration layer with shared policy gates and execution history.
+7. **Parallel-Agent Harness**: Learn why parallel execution control matters by implementing a simplified variant of the published [parallel-agent-harness](https://github.com/letslego/parallel-agent-harness) pattern.
 
 ## How to Proceed
 

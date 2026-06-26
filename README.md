@@ -204,7 +204,7 @@ For the full course materials, please visit the **[Documentation Website](https:
 The curriculum is divided into three parts:
 
 1. **Lectures**: 12 conceptual units explaining the theory behind harness engineering.
-2. **Projects**: 6 hands-on projects where you build an agentic workspace from scratch.
+2. **Projects**: 7 hands-on projects where you build and scale an agentic workspace from scratch.
 3. **Resource Library**: Copy-ready templates (`AGENTS.md`, `feature_list.json`, `init.sh`, etc.) to use in your own repositories today.
 
 ---
@@ -231,7 +231,7 @@ Grab the starter templates from the [Resource Library](https://letslego.github.i
 
 ## Capstone Project: A Real App
 
-All six course projects revolve around the same product: **an Electron-based personal knowledge base desktop app**.
+The first six course projects revolve around the same product: **an Electron-based personal knowledge base desktop app**.
 
 ```text
     ┌──────────────────────────────────────────────────────┐
@@ -338,7 +338,7 @@ Each phase takes about a week if you're going part-time. If you want to go faste
 | [L11](./docs/en/lectures/lecture-11-why-observability-belongs-inside-the-harness/) | Why does observability belong inside the harness? | If you can't see what the agent did, you can't fix what it broke |
 | [L12](./docs/en/lectures/lecture-12-why-every-session-must-leave-a-clean-state/) | Why must every session leave a clean state? | The next session's success depends on this session's cleanup |
 
-### Projects — 6 hands-on projects applying lecture methods to the same Electron app
+### Projects — 7 hands-on projects from single-agent reliability to parallel-agent orchestration
 
 | Project | What You Do | Harness Mechanism |
 |---------|------------|-------------------|
@@ -348,6 +348,7 @@ Each phase takes about a week if you're going part-time. If you want to go faste
 | [P04](./docs/en/projects/project-04-incremental-indexing/) | Stop the agent from doing too much or too little | Runtime feedback + scope control + incremental indexing |
 | [P05](./docs/en/projects/project-05-grounded-qa-verification/) | Make the agent verify its own work | Self-verification + grounded Q&A + evidence-based completion |
 | [P06](./docs/en/projects/project-06-runtime-observability-and-debugging/) | Build a complete harness from scratch (capstone) | Full harness: all mechanisms + observability + ablation study |
+| [P07](./docs/en/projects/project-07-omnigent-inspired-orchestration/) | Build a simplified version of the published [parallel-agent-harness](https://github.com/letslego/parallel-agent-harness) | Parallel adapter orchestration + shared policy gates + unified execution history |
 
 ```text
     PROJECT EVOLUTION
@@ -369,6 +370,9 @@ Each phase takes about a week if you're going part-time. If you want to go faste
      |
      v
     P06  Complete harness (capstone)       You build the full system
+     |
+     v
+    P07  Parallel-agent harness            You scale orchestration safely
 
     Each project's solution becomes the next project's starter.
     The app evolves. Your harness skills grow with it.
